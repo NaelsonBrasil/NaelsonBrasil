@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NaelsonBrasil
-- 👀 I’m Desenvolvimento ferramentas soluções
-- 🌱 I’m currently learning Math 
+- 👀 I’m Desenvolvimento de ferramentas e soluções
+- 🌱 I’m currently learning
 - 📫 How to reach me naelson.g.saraiva@gmail.com
