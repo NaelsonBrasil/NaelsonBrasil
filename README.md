@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NaelsonBrasil
-- 👀 I’m Dev de ferramentas que soluciona seus problemas! 
-- 🌱 I’m currently learning
+- 👀 I’m Dev de ferramentas do tipo software.
+- 🌱 I’m currently learning and everyday find out for solution to my customers.
 - 📫 How to reach me naelson.g.saraiva@gmail.com
