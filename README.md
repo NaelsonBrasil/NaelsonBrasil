@@ -2,8 +2,7 @@
 ### ✨ A Software Developer and technical writer passionate about creating things that works on computer :)
 
 ---
-
-- 😄 My Pronouns: He/Him   
+ 
 - 💬 Ask me about: PHP, JAVASCRIPT
 - 🌱 I’m currently exploring new things in technology
 - 🌐 [Portfolio Website](https://nelsondev.netlify.app)
