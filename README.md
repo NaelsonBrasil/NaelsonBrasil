@@ -30,4 +30,5 @@
 ---
 ### 📚 Latest Projects Comunnity 
 - [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
-- [MaxCheaters](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+- [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)
+- [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
