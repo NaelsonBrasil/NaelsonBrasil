@@ -1,4 +1,4 @@
-##### 🔥 Card Affiliate get one
+##### 🔥 Card Affiliate get one on your home
 
 - Website done CSS HTML,JS to sell 
 
