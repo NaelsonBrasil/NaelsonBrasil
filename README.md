@@ -33,7 +33,7 @@
 
 ### Lista de projetos de empresas e projetos pessoais.
 
-- [PluginWP - gatewaySplit de pagamento](https://github.com/devnaelson/devnaelson/blob/main/README.md) private code 🔒,
+- [PluginWP - GateWaySplit de pagamento](https://github.com/devnaelson/devnaelson/blob/main/README.md) private code 🔒,
 
 ---
 ### Perfil do LinkedIn
