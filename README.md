@@ -17,7 +17,7 @@
 - [+] COMPILED SASS
 - [+] ReactJS
 - [+] NextJS
-- [+] Vue  
+- [+] VueJS
 - Library: Bootstrap, Boost C++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv...
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
 - Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json,
