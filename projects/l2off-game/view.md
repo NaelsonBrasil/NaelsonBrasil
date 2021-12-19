@@ -9,6 +9,8 @@ Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devn
 ---
 
 ![View](./video.mp4)
-
+<video width="320" height="240" autoplay muted>
+  <source src="./video.mp4" type="video/mp4">
+</video>
 
 [Return out back](https://github.com/devnaelson)
