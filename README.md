@@ -5,16 +5,11 @@
  
  💬 Experiências nas seguintes tecnologias 
  Linguagens BackEnd: 
- ➕ PHP,
-
+ ➕ PHP, <br>
  ➕ NODE,
-
  ➕ C++,
-
  ➕ C,
-
  ➕ PHYTON.
- 
  ➕ Linguagens Front End: JAVASCRIPT;
  Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.
 
