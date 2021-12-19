@@ -1,5 +1,5 @@
 ## 👋 Olâ, meu é nome Naelson
-### ✨ Trabalho como desenvolvedor Web and crio coisas, programo coisas que funciona no computador :)
+### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :)
 
 ---
  
