@@ -18,9 +18,10 @@
 - [+] ReactJS
 - [+] NextJS
 - [+] Vue  
-- Library: Bootstrap, Boost++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv...
+- Library: Bootstrap, Boost C++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv...
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
-- Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json. 
+- Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json,
+- Struturas de Dados, Assemblyx86 Conceitos flags, Stack, Frames, PE Format...
 - 
 - ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 e geometria.
 - 
