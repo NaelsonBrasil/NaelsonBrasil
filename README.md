@@ -1,4 +1,4 @@
-## 👋 Olâ, meu nome Naelson Gonçalves Saraiva
+## 👋 Olâ, meu é nome Naelson
 ### ✨ Trabalho como desenvolvedor Web and crio coisas, programo coisas que funciona no computador :)
 
 ---
