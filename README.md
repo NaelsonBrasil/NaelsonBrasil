@@ -50,7 +50,7 @@
 
 ---
 ### 📚 De onde vim.
-- Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando outros membros da equipe, evitando floods e trolls.
+- Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.
 ---
 Pefils, 
 - [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
