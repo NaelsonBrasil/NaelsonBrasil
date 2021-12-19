@@ -1,0 +1,299 @@
+body {
+  position: relative;
+  background: #080404 url("background.jpg") no-repeat top;
+}
+
+.main {
+  padding: 0;
+}
+
+.top {
+  width: 100% !important;
+  display: flex;
+  height: 150px !important;
+}
+
+.logo {
+  width: 25%;
+  background-color: #080404;
+  align-items: center;
+  text-align: center;
+}
+
+.menu {
+  width: 75%;
+  background-color: #080404;
+}
+
+.company {
+  line-height: 150px !important;
+}
+
+.main > .top > .logo > a {
+  text-decoration: none;
+  color: #fcff00;
+  font-size: 36px;
+  font-family: "Arial Regular", Helvetica, sans-serif;
+}
+
+.main > .top > .logo > a > strong {
+  color: #037500;
+  line-height: 100px;
+  font-size: 36px;
+  font-family: "Arial Regular", Helvetica, sans-serif;
+}
+
+.display-desktop {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.display-desktop > .list-top {
+  line-height: 150px;
+}
+
+.display-desktop > .list-top > li {
+  list-style: none;
+  text-decoration: none;
+  list-style: none;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.display-desktop > .list-top > li:hover {
+  border-bottom: 3px solid rgb(221, 9, 9);
+}
+
+.display-desktop > .list-top > li > a {
+  color: #ffffff;
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Arial Regular", Helvetica, sans-serif;
+}
+
+.display-desktop > .list-top > li > a:hover {
+  color: #dadd00;
+}
+/* awesome icons properties */
+.display-mobile {
+  color: #ffffff;
+  line-height: 120px;
+  font-size: 50px;
+  padding: 48px;
+}
+
+.display-mobile:hover {
+  background-color: #ffffff;
+  color: #0f0f0f;
+  margin-left: 5px;
+}
+
+/* menu mobile begin */
+
+.display-mobile:hover > .menu-mobile {
+  width: 250px;
+  height: 300px;
+  background-color: #ffffff;
+  position: absolute;
+  top: 150px;
+  right: 0px;
+}
+
+.ul-menu-mobile {
+  display: none !important;
+}
+
+.display-mobile:hover > .menu-mobile > .ul-menu-mobile {
+  display: inline-block !important;
+  margin: 0 0 0 !important;
+  padding: 0 5px 0 !important;
+  text-align: justify;
+}
+
+.display-mobile > .menu-mobile > .ul-menu-mobile > li {
+  display: inline-block !important;
+  height: 34px;
+  width: 98%;
+  background-color: rgb(218, 218, 218);
+  padding-top: 20px;
+  margin-top: 5px;
+  line-height: 10px;
+  text-align: center;
+}
+
+.display-mobile > .menu-mobile > .ul-menu-mobile > li:hover {
+  background-color: rgb(223, 47, 47);
+}
+
+.display-mobile > .menu-mobile > .ul-menu-mobile > li > a {
+  font-size: 16px;
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+}
+
+.slider > div {
+  z-index: -1;
+}
+
+.title-card-credits {
+  background-color: #3892de;
+  height: 130px;
+  text-align: center;
+}
+
+.title-card-credits > h1 {
+  font-size: 60px;
+  line-height: 130px;
+  font-family: quickFont;
+  color: white;
+}
+
+/* begin product struct */
+.btn-order {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-description {
+  width: 100%;
+  height: 100%;
+}
+
+.btn-image {
+  width: 100%;
+  height: 100%;
+}
+
+.image-top {
+  margin-top: 70px;
+}
+
+.value-product {
+  margin-top: 100px;
+}
+
+.title-machines {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
+
+.title-machines > h2 {
+  font-family: quickFont;
+  letter-spacing: 1px;
+}
+
+.trace {
+  width: 50%;
+  height: 1px;
+  background-color: #e7e7e7;
+  margin: auto;
+}
+
+/* end  */
+
+/* begin machines */
+.machines {
+  display: flex;
+}
+
+.machines > div {
+  background-color: #ffffff;
+  width: 100%;
+  height: 418px;
+}
+
+.machines > .btn-order > .value-product {
+  text-align: center;
+}
+
+.machines > .btn-order > .value-product > ul {
+  display: inline-block;
+  list-style: none;
+  margin: 0 0 0 !important;
+  padding: 0 0 0 !important;
+}
+
+.machines > .btn-order > .value-product > ul > li {
+  font-family: titillium-light;
+  font-size: 30px;
+}
+
+.machines > .btn-order > .value-product > ul > li > strong {
+  color: #3892de !important;
+}
+
+.machines > .btn-order > .btn-direction {
+  text-align: center;
+  background-color: #2277d8;
+  width: 355px;
+  height: 100px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.machines > .btn-order > .btn-direction:hover {
+  opacity: 0.8;
+}
+
+.machines > .btn-order > .btn-direction > a {
+  line-height: 100px;
+  color: white;
+  text-decoration: none;
+}
+
+.machines > .btn-description > .text-content {
+  margin: auto;
+  margin-top: 120px;
+}
+
+.machines > .btn-description > .text-content > ul {
+  list-style: none;
+}
+
+.machines > .btn-description > .text-content > ul > li {
+  font-size: 18px;
+  text-align: center;
+  font-family: titillium-light;
+  margin: 10px;
+}
+
+.machines > .btn-image > .image-machines {
+  text-align: center;
+}
+
+/* end machines */
+
+/* footer */
+
+.copy-right {
+  margin: 40px auto;
+  width: 100%;
+  height: 70px;
+  background-color: rgba(231, 118, 12, 0.966);
+}
+
+.copy-right > footer {
+  text-align: center;
+  line-height: 70px;
+  color: white;
+}
+
+.return > .back{
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 50px;
+  right: 10px;
+  background-color: rgb(12, 12, 12);
+  text-align: center;
+  opacity: 0.6;
+}
+
+.return > .back > a > i{
+  font-size: 30px;
+  color: white;
+  line-height: 50px;
+  cursor: pointer;
+  text-decoration: none;
+}
