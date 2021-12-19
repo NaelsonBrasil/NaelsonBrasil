@@ -47,7 +47,9 @@
 
 
 ---
-### 📚 Latest Projects Comunnity 
+### 📚 De onde eu vim.
+- Plataforma de Freelancer e comunidades aberta desde 2011 aprendendo ensinando e evoluindo como profissional. 
+---
 - [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
 - [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)
 - [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
