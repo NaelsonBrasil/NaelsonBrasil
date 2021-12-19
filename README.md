@@ -16,6 +16,7 @@
 - [+] HTML
 - [+] CSS
 - [+] COMPILED SASS
+- [+] Jquery
 - [+] ReactJS
 - [+] NextJS
 - [+] VueJS
