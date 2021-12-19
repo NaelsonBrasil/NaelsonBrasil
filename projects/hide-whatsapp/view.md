@@ -5,7 +5,7 @@
 
 ---
 
-Availeble code, check on and checkout [Source Code](https://github.com/devnaelson/devnaelson/tree/main/projects/hide-whatsapp/code)
+Availeble code, click on and checkout [Source Code](https://github.com/devnaelson/devnaelson/tree/main/projects/hide-whatsapp/code)
 
 ---
 
