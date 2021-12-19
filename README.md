@@ -57,7 +57,8 @@
 
 
 ---
-### 📚 De onde vim.<br>
+### 📚 De onde vim.
+
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
 ---
 Pefils,<br>
