@@ -25,7 +25,12 @@
  ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. <br>
  ➕ Outras:<br> 
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux Ubuntu, 
- Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows Server ou pessoal
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mysql Server Microsoft 
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mysql Oracle,
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB, 
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...<br>
 
 ---
 ### Interesses
