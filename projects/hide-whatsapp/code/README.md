@@ -1,2 +1,2 @@
 # mwh
-- Plugin para o google chrome de Ocultar messagens Whatsapp Web.
+- stay over nice to view the whole code and get out anythings needed to.
