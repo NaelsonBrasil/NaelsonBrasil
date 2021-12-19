@@ -3,7 +3,8 @@
 
 ---
  
- 💬 Experiências nas seguintes tecnologias <br>
+ 💬 Experiências nas seguintes tecnologias<br>
+ 
  Linguagens BackEnd:<br>
  ➕ PHP,<br>
  ➕ NODE,<br>
