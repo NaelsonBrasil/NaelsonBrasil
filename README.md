@@ -5,10 +5,10 @@
  
 - 💬 Experiências conseguintes tecnologia: 
 - Linguagens BackEnd: 
-- [+] PHP, 
-- [+] NODE, 
-- [+] C++, 
-- [+] C, 
+- [+] PHP,
+- [+] NODE,
+- [+] C++,
+- [+] C,
 - [+] PHYTON.
 - [+] Linguagens Front End: JAVASCRIPT;
 - Meu foco é Back End,mas tenho experiências nas construções de telas, layouts em Photoshop fatiar e montar nas seguintes técnologias.
@@ -18,13 +18,13 @@
 - [+] ReactJS
 - [+] NextJS
 - [+] Vue  
-- Library: Bootstrap, Boostc++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv... 
+- Library: Bootstrap, Boost++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv...
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
 - Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json. 
 - 
 - 🌱 Atualmente estou explorando a Deep Math, como algebra 1,2 geometria.
 - 
-- 🌐 [Portfolio Website](https://xxxxxxxx.xxx.app)
+<!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
 - ⚡ Gostos: Eu gosto de Jogar Video Game, andar de moto, bicicleta, e o silencio da natureza.
 
 ---
