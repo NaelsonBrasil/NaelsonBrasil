@@ -4,7 +4,7 @@
 ---
  
  💬 Experiências nas seguintes tecnologias 
- Linguagens BackEnd: 
+ Linguagens BackEnd: <br>
  ➕ PHP, <br>
  ➕ NODE, <br>
  ➕ C++,
