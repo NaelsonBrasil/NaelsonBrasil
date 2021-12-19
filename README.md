@@ -47,7 +47,7 @@
 
 
 ---
-### 📚 De onde eu vim.
+### 📚 De onde vim.
 - Plataforma de Freelancer e comunidades aberta desde 2011 aprendendo ensinando e evoluindo como profissional. 
 ---
 - [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
