@@ -1,7 +1,6 @@
-##### 🔥 Hide your contacts from other peoples on meet call. 
+##### 🔥 Card Affiliate get one
 
-- How it work? Only Just Click up in bar of plugins and put on the name from partner that need show, done it, will hide the remainters.
-- Maybe this not work out more, because of up dates. 
+- Website done CSS HTML,JS to sell cards
 
 ---
 
