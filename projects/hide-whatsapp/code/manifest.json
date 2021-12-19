@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Append Test Text",
+  "description": "Add test123 to body",
+  "version": "1.0",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js": ["popup.js"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Append Test Text",
+    "default_popup": "popup.html"
+  }
+}
