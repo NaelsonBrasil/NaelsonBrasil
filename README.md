@@ -31,7 +31,7 @@
 
 ---
 
-### Lista de projetos de empresas e projetos pessoais.
+### Lista de projetos de empresas e pessoais.
 
 - [Gateway Split de pagamento - WooComerce PluginWP](https://github.com/devnaelson/devnaelson/blob/main/README.md) ```(PHP,JQUERY,MYSQL,HTML,CSS,WebHooks)``` private code 🔒,
 
