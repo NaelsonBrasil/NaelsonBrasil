@@ -24,8 +24,8 @@
  ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...<br>
  ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. <br>
  ➕ Outras:<br> 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux Ubuntu, 
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows Server ou pessoal
+1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux Ubuntu<br>
+2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows Server ou pessoal<br>
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mysql Server Microsoft 
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mysql Oracle,
