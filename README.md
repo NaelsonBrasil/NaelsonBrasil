@@ -11,7 +11,7 @@
  ➕ C,<br>
  ➕ PHYTON.<br>
  ➕ Linguagens Front End: JAVASCRIPT;<br>
- Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
+ ⚠️ Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
  ➕ HTML<br>
  ➕ CSS<br>
  ➕ COMPILED SASS<br>
@@ -57,7 +57,7 @@
 
 
 ---
-### 📚 De onde vim.
+### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
 
 Pefils,<br>
