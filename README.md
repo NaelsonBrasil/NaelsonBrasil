@@ -22,17 +22,18 @@
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
 - Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json,
 - Struturas de Dados, Assemblyx86 Conceitos flags, Stack, Frames, PE Format...
-
+- 
+### Technology Stack
 - ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 e geometria.
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
 - 😃 Eu gostos: Eu gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
 
 ---
-### Connect with me
+### Perfil do LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
 
 ---
-### Technology Stack
+### Hot Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
