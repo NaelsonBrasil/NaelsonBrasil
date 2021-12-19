@@ -27,7 +27,7 @@
 ### Interesses
 - ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 e geometria.
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
-- 😃 Eu gostos: Eu gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
+- 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
 
 ---
 ### Perfil do LinkedIn
