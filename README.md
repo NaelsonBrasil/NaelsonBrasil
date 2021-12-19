@@ -11,7 +11,8 @@
 - [+] C,
 - [+] PHYTON.
 - [+] Linguagens Front End: JAVASCRIPT;
-- Foco em Back End, mas tenho experiências nas construções de telas, layouts em Photoshop fatiar e montar nas seguintes técnologias.
+- Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar nas tecnologias solicitadas, alguns projetinhos abaixo. 
+
 - [+] HTML
 - [+] CSS
 - [+] COMPILED SASS
