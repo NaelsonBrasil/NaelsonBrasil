@@ -53,6 +53,6 @@
 - Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.
 ---
 Pefils, 
+- [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 - [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
 - [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)
-- [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
