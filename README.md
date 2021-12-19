@@ -29,6 +29,9 @@
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
 - 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
 
+### Lista de projetos de empresas e projetos pessoais.
+- [+] C++,
+- 
 ---
 ### Perfil do LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
