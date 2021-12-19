@@ -11,7 +11,7 @@
  ➕ C,<br>
  ➕ PHYTON.<br>
  ➕ Linguagens Front End: JAVASCRIPT;<br>
- ⚠️ Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
+ ⚠️  foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
  ➕ HTML<br>
  ➕ CSS<br>
  ➕ COMPILED SASS<br>
