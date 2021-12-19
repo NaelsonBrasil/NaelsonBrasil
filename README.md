@@ -32,7 +32,7 @@
 ---
 
 ### Lista de projetos de empresas e pessoais.
-- [Gateway Split de pagamento - WooComerce PluginWP](https://github.com/devnaelson/devnaelson/blob/main/README.md) ```(PHP,JQUERY,MYSQL,HTML,CSS,WebHooks)``` private code 🔒,
+- [Gateway Split Payment - WooComerce](https://github.com/devnaelson/devnaelson/blob/main/README.md) ```(PHP,JQUERY,MYSQL,HTML,CSS,WordPress Plugins)``` private code 🔒,
 
 - [Extensão Chrome ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` open code 🔓,
 
