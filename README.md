@@ -26,7 +26,7 @@
 ---
 ### Interesses
 - ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2 e geometria.
-- 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
+- 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, valorizar um tempo como também silencio da 🌱 natureza.
 - 💡 Trabalho em cima de "boas" ideias conforme minha realidade agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.
 
 
