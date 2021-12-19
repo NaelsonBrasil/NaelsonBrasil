@@ -22,7 +22,8 @@
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
 - Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json,
 - Struturas de Dados, Assemblyx86 Conceitos flags, Stack, Frames, PE Format...
-- 
+
+---
 ### Interesses
 - ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 e geometria.
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
