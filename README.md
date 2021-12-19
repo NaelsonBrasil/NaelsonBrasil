@@ -32,7 +32,7 @@
 ---
 
 ### Lista de projetos de empresas e projetos pessoais.
-- [Projeto de Split de pagamento](https://xxxxxxxx.xxx.app) private code 🔒,
+- [Projeto de Split de pagamento](https://github.com/devnaelson/devnaelson/blob/main/README.md) private code 🔒,
 ---
 ### Perfil do LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
