@@ -9,7 +9,7 @@ Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devn
 
 ---
 
-![View](/card.png)
+![View](./card.png)
 
 
 [Return out back](https://github.com/devnaelson)
