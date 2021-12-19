@@ -22,10 +22,10 @@
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
 - Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json. 
 - 
-- 🌱 Atualmente estou explorando a Deep Math, como algebra 1,2 geometria.
+- ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 geometria.
 - 
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
-- ⚡ Gostos: Eu gosto de Jogar Video Game, andar de moto, bicicleta, e o silencio da natureza.
+- 😃 Eu gostos: Eu gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
 
 ---
 ### Connect with me
