@@ -42,7 +42,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
 
 ---
-### 🔥 Stack
+### 🔥 Stack<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -57,10 +57,10 @@
 
 
 ---
-### 📚 De onde vim.
+### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
 ---
-Pefils, 
+Pefils,<br>
 🔗 [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 🔗 [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)<br>
 🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)<br>
