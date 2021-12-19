@@ -3,32 +3,32 @@
 
 ---
  
-- 💬 Experiências nas seguintes tecnologias 
-- Linguagens BackEnd: 
-- ➕ PHP,
-- ➕ NODE,
-- ➕ C++,
-- ➕ C,
-- ➕ PHYTON.
-- ➕ Linguagens Front End: JAVASCRIPT;
-- Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.
+ 💬 Experiências nas seguintes tecnologias 
+ Linguagens BackEnd: 
+ ➕ PHP,
+ ➕ NODE,
+ ➕ C++,
+ ➕ C,
+ ➕ PHYTON.
+ ➕ Linguagens Front End: JAVASCRIPT;
+ Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.
 
-- ➕ HTML
-- ➕ CSS
-- ➕ COMPILED SASS
-- ➕ Jquery
-- ➕ ReactJS
-- ➕ NextJS
-- ➕ VueJS
-- ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...
-- ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
-- ➕ Outras: Linux Ubuntu, Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...
+ ➕ HTML
+ ➕ CSS
+ ➕ COMPILED SASS
+ ➕ Jquery
+ ➕ ReactJS
+ ➕ NextJS
+ ➕ VueJS
+ ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...
+ ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
+ ➕ Outras: Linux Ubuntu, Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...
 
 ---
 ### Interesses
-- ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria...
-- 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, valorizar um tempo como também silencio da 🌱 natureza.
-- 👊 Trabalho em cima de "boas" 💡 ideias conforme minha perspectiva como sugestão agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.
+ ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria...
+ 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, valorizar um tempo como também silencio da 🌱 natureza.
+ 👊 Trabalho em cima de "boas" 💡 ideias conforme minha perspectiva como sugestão agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.
 
 
 ---
@@ -59,9 +59,9 @@
 
 ---
 ### 📚 De onde vim.
-- Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.
+⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.
 ---
 Pefils, 
-- [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
-- [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
-- [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)
+🔗 [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+🔗 [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)
+🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)
