@@ -4,25 +4,24 @@
 ---
  
  💬 Experiências nas seguintes tecnologias 
- Linguagens BackEnd: <br>
- ➕ PHP, <br>
- ➕ NODE, <br>
- ➕ C++,
- ➕ C,
- ➕ PHYTON.
- ➕ Linguagens Front End: JAVASCRIPT;
- Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.
-
- ➕ HTML
- ➕ CSS
- ➕ COMPILED SASS
- ➕ Jquery
- ➕ ReactJS
- ➕ NextJS
- ➕ VueJS
- ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...
- ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
- ➕ Outras: Linux Ubuntu, Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...
+ Linguagens BackEnd:<br>
+ ➕ PHP,<br>
+ ➕ NODE,<br>
+ ➕ C++,<br>
+ ➕ C,<br>
+ ➕ PHYTON.<br>
+ ➕ Linguagens Front End: JAVASCRIPT;<br>
+ Obs: foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
+ ➕ HTML<br>
+ ➕ CSS<br>
+ ➕ COMPILED SASS<br>
+ ➕ Jquery<br>
+ ➕ ReactJS<br>
+ ➕ NextJS<br>
+ ➕ VueJS<br>
+ ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...<br>
+ ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. <br>
+ ➕ Outras: Linux Ubuntu, Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json, struturas de dados, conceitos Assemblyx86, flags, ponteiros, endereços, referências, stack, frames, pages, PE Format...<br>
 
 ---
 ### Interesses
