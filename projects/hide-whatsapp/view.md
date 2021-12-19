@@ -1,6 +1,6 @@
 ##### 🔥 Hide your contacts from other peoples on meet call. 
 
-- How it work? Only Just Click up in bar of plugins and put on your name.
+- How it work? Only Just Click up in bar of plugins and put on the name from pattern that just need show.
 - Maybe this not work out more, because of up dates. 
 
 ---
