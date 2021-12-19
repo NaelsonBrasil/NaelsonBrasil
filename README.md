@@ -25,7 +25,7 @@
 
 ---
 ### Interesses
-- ⚡ Atualmente estou explorando a Deep Math, como algebra 1,2 e geometria.
+- ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2 e geometria.
 <!--  🌐 [Portfolio Website](https://xxxxxxxx.xxx.app) -->
 - 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, e o silencio da 🌱 natureza.
 
