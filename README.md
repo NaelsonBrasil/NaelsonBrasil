@@ -20,7 +20,7 @@
 - [+] VueJS
 - Library: Bootstrap, Boost C++, MysqlConnectC++, PHPUnit, Guzzle, PHP dotenv...
 - Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
-- Outras coisas como Linux Ubuntu, Windows Server or personal, Git, Mysql Server, Mysql, MongoDB, Json,
+- Outras coisas como Linux Ubuntu, Windows Server ou pessoal, Git, Mysql Server, Mysql, MongoDB, Json,
 - Struturas de dados, Assemblyx86 conceitos de flags, ponteiros, endereços, referencias, stack, frames, pages, PE Format...
 
 ---
