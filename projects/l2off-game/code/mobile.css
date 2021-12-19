@@ -1,0 +1,142 @@
+/* hidden the menu awesome icons */
+.display-mobile {
+  display: none;
+}
+
+@media all and (max-width: 1580px) {
+  .display-desktop > .list-top > li > a {
+    font-size: 24px !important;
+  }
+
+  .title-card-credits > h1 {
+    font-size: 50px !important;
+  }
+}
+
+@media all and (max-width: 1000px) {
+
+  .menu-mobile > .ul-mobile > li{
+    line-height: 10px !important;
+    padding: 30px !important;
+  }
+
+  .li {
+    display: none !important;
+  }
+
+  .display-mobile {
+    display: block;
+    float: right;
+    margin-top: -15px !important;
+    line-height: 0 !important;
+    padding: 50px !important;
+  }
+
+  .display-desktop > .list-top {
+    width: 50%;
+  }
+
+  .title-card-credits > h1 {
+    font-size: 40px !important;
+  }
+
+  .machines {
+    flex-wrap: wrap !important;
+  }
+
+  html,
+  body {
+    overflow-x: hidden;
+  }
+}
+/* media screen and (min-device-width: 481px) and (max-device-width: 768px) */
+@media all and (max-width: 768px) and (min-width: 600px) {
+  .display-desktop > .list-top > li > a {
+    font-size: 18px !important;
+  }
+
+  .main > .top > .logo > .company {
+    font-size: 24px !important;
+  }
+
+  .main > .top > .logo > .company > strong {
+    font-size: 24px !important;
+  }
+
+  .title-card-credits > h1 {
+    font-size: 30px !important;
+  }
+
+  .display-mobile > .menu-mobile > .ul-menu-mobile > li {
+    line-height: 20px !important;
+    height: 45px !important;
+    padding-top: 0px !important;
+  }
+}
+
+@media all and (max-width: 600px) {
+  .display-mobile {
+    font-size: 24px !important;
+    display: block;
+    float: right;
+    margin-top: -40px !important;
+  }
+
+  .main > .top > .logo > .company {
+    font-size: 18px !important;
+  }
+
+  .icon-menu {
+    margin-top: 50px;
+  }
+
+  .title-card-credits > h1 {
+    font-size: 30px !important;
+  }
+
+  .text-content > ul > li {
+    margin: 0 0 0;
+    padding: 0 0 0 !important;
+  }
+}
+
+@media all and (max-width: 450px) {
+  .display-desktop {
+    display: none !important;
+  }
+
+  .display-mobile {
+    padding: 58px !important;
+    margin-left: 21% !important;
+  }
+
+  .logo {
+    width: 40% !important;
+  }
+
+  .menu {
+    width: 60% !important;
+  }
+
+  .title-card-credits > h1 {
+    font-size: 25px !important;
+  }
+
+  .display-mobile > .menu-mobile > .ul-menu-mobile > li {
+    line-height: 0px !important;
+    height: 45px !important;
+    
+  }
+}
+
+@media all and (max-width: 360px) {
+  .title-card-credits > h1 {
+    font-size: 18px !important;
+  }
+
+  .display-mobile > .menu-mobile > .ul-menu-mobile > li {
+    line-height: 0px !important;
+    height: 45px !important;
+  }
+
+}
