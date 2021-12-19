@@ -1,12 +1,31 @@
-## 👋 Hi there, I am Naelson Gonçalves Saraiva
-### ✨ A Software Developer and technical writer passionate about creating things that works on computer :)
+## 👋 Olâ, meu nome Naelson Gonçalves Saraiva
+### ✨ Trabalho como desenvolvedor Web and crio coisas, programo coisas que funciona no computador :)
 
 ---
  
-- 💬 Ask me about: PHP, JAVASCRIPT
-- 🌱 I’m currently exploring new things in technology
+- 💬 Experiências conseguintes tecnologia: 
+- Linguagens BackEnd: 
+- [+] PHP, 
+- [+] NODE, 
+- [+] C++, 
+- [+] C, 
+- [+] PHYTON.
+- [+] Linguagens Front End: JAVASCRIPT;
+- Meu foco é Back End,mas tenho experiências nas construções de telas, layouts em Photoshop fatiar e montar nas seguintes técnologias.
+- [+] HTML
+- [+] CSS
+- [+] COMPILED SASS
+- [+] ReactJS
+- [+] NextJS
+- [+] Vue  
+- Library: Bootstrap, Boostc++, MysqlConnectc++, PHPUnit, Guzzle, PHP dotenv... 
+- Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. 
+- Outras coisas como Linux Ubuntu, Windows, Git, Mysql Server, Mysql, MongoDB, Json. 
+- 
+- 🌱 Atualmente estou explorando a Deep Math, como algebra 1,2 geometria.
+- 
 - 🌐 [Portfolio Website](https://xxxxxxxx.xxx.app)
-- ⚡ Fun fact: I enjoy playing console games with friends and family and also a cyclist
+- ⚡ Gostos: Eu gosto de Jogar Video Game, andar de moto, bicicleta, e o silencio da natureza.
 
 ---
 ### Connect with me
