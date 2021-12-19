@@ -1,4 +1,4 @@
-## 👋 Olâ, meu é nome Naelson 🇧🇷 
+## 👋 Olâ, meu nome é Naelson 🇧🇷 
 ### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :)
 
 ---
