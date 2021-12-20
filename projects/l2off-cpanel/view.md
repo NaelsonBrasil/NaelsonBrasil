@@ -1,6 +1,6 @@
 ##### 🔥 Card Affiliate get one on your home
 
-- Website done CSS HTML,JS to sell 
+- Cpanel to integrate news websites get features like donator, recovery password, unluck caracters and more. 
 
 ---
 
