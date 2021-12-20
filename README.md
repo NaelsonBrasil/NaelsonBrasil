@@ -6,7 +6,7 @@
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
 
 #### Pefils e Referências,<br>
-#### 🔗 [Workana 8 Projetos](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
+#### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 #### 🔗 [L2JBrasil Super Membro POSTS 1059/251 Reputation](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 #### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
 #### Referências de empresas atribuidas no curriculum.<br>
