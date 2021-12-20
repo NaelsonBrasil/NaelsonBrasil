@@ -8,7 +8,7 @@ Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devn
 
 ---
 
-[![Watch the video](https://www.youtube.com/watch?v=QQGnaNuzQIM)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=QQGnaNuzQIM)
 
 
 [Return out back](https://github.com/devnaelson)
