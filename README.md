@@ -49,7 +49,7 @@
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` open code 🔓<br>
  ⚙️ [Web Site de afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` open code 🔓<br>
  ⚙️ [Extensão Chrome ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` open code 🔓<br>
- ⚙️ [Gateway Split Payment - WooComerce](https://github.com/devnaelson/devnaelson/blob/main/README.md) ```(PHP,JQUERY,MYSQL,HTML,CSS,WordPress Plugins)``` private code 🔒<br>
+ ⚙️ [Gateway Split Payment - WooComerce](https://github.com/devnaelson/devnaelson/blob/main/README.md) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` private code 🔒<br>
 
 ---
 ### Perfil do LinkedIn
