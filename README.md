@@ -54,7 +54,7 @@
 
 ---
 ### Lista de projetos de empresas e pessoais.
- ⚙️ [Cpanel Generator Webs](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server,Template credits in footer)``` 🔓 open code<br>
+ ⚙️ [DashBoard Generator Webs](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server,Template credits in footer)``` 🔓 open code<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Web Site de afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
  ⚙️ [Extensão Chrome ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` 🔓 open <br>
