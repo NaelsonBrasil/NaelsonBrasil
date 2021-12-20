@@ -2,6 +2,21 @@
 ### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :)
 
 ---
+### 📚 De onde vim.<br>
+⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
+
+Pefils&Referências,<br>
+🔗 [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
+🔗 [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)<br>
+🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)<br>
+
+---
+### Interesses
+ ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
+ 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, valorizar um tempo como também silencio da 🌱 natureza.<br>
+ 👊 Trabalho em cima de "boas" 💡 ideias conforme minha perspectiva como sugestão agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.<br>
+
+---
  
  💬 Experiências nas seguintes tecnologias<br>
 
@@ -38,13 +53,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 Git [Link](https://github.com/devnaelson/git)<br>
 
 ---
-### Interesses
- ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
- 😃 Gosto de 🎮 jogar Video Game, andar de moto, 🚴 bicicleta, valorizar um tempo como também silencio da 🌱 natureza.<br>
- 👊 Trabalho em cima de "boas" 💡 ideias conforme minha perspectiva como sugestão agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.<br>
-
-
----
 ### Lista de projetos de empresas e pessoais.
  ⚙️ [Cpanel Generator Webs](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server,Procedural)``` open code 🔓<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` open code 🔓<br>
@@ -69,13 +77,3 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
----
-### 📚 De onde vim.<br>
-⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
-
-Pefils&Referências,<br>
-🔗 [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
-🔗 [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)<br>
-🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)<br>
