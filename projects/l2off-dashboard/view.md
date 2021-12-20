@@ -1,7 +1,8 @@
 ##### 🔥 Ideia of product myself of create one genarated of Website for the game RPG lineage2
 
-- By setting with database i can get a one website choose by subdomain name and just one click receibe a full webiste that solve your problema with the same.
 - All structure credits by Naelson from ZERO until where is
+- By setting with database i can get a one website choose by subdomain name and just one click receibe a full webiste that solve your problema with the same.
+- pre-template
 ---
 
 Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devnaelson/devnaelson/tree/main/projects/l2off-dashboard/code)
