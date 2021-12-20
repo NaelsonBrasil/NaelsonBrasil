@@ -1,8 +1,8 @@
 ## 👋 Olâ, meu nome é Naelson 🇧🇷 
-### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :) Veja abaixo um mix de coisas que atualmente faço e já fiz.
+#### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :) Veja abaixo um mix de coisas que atualmente faço e já fiz.
 
 ---
-### 📚 De onde vim.<br>
+##### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
 
 Pefils&Referências,<br>
@@ -11,7 +11,7 @@ Pefils&Referências,<br>
 🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)<br>
 Outras referências atribuidas no curriculum.<br>
 ---
-### Interesses
+##### Interesses
  ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
  😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizar um tempo como também silencio da 🌱 natureza.<br>
  👊 Trabalho em cima de "boas" 💡 ideias conforme minha perspectiva como sugestão agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.<br>
