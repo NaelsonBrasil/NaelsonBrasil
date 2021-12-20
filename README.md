@@ -9,7 +9,7 @@
 #### 🔗 [Workana 8 Projetos](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 #### 🔗 [L2JBrasil Super Membro POSTS 1059/251 Reputation](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 #### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
-#### Outras referências atribuidas no curriculum.<br>
+#### Referências de empresas atribuidas no curriculum.<br>
 ---
 ### Interesses
  ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
