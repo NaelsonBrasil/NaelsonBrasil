@@ -1,10 +1,10 @@
-##### 🔥 CPanel L2OFF C4
+##### 🔥 Genarated website
 
-- Cpanel to integrate news websites get features like donator, recovery password, unluck caracters and more. 
-
+- By setting with database i can get a one website choose by subdomain name and just one click receibe a full webiste that solve your problema with the same.
+- All structure credits by Naelson from ZERO until where is
 ---
 
-Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devnaelson/devnaelson/tree/main/projects/l2off-cpanel/code)
+Availeble code, click on and checkout 🔍 [Source Code](https://github.com/devnaelson/devnaelson/tree/main/projects/l2off-dashboard/code)
 
 ---
 
