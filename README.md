@@ -1,5 +1,5 @@
 ## 👋 Olâ, meu nome é Naelson 🇧🇷 
-### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :)
+### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador :) Veja abaixo um mix de coisas que atualmente faço e já fiz.
 
 ---
 ### 📚 De onde vim.<br>
@@ -9,7 +9,7 @@ Pefils&Referências,<br>
 🔗 [Workana](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 🔗 [L2JBrasil](https://www.l2jbrasil.com/index.php?/profile/54325-kabaite/content/&type=forums_topic_post)<br>
 🔗 [MaxCheaters](https://maxcheaters.com/profile/176942-naelson/)<br>
-
+Outras referências atribuidas no curriculum.<br>
 ---
 ### Interesses
  ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
