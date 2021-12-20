@@ -1,0 +1,12 @@
+# BEGIN rule
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^index/?$ main.php
+RewriteRule ^home/?$ main.php
+RewriteRule ^connect/?$ connect.php
+RewriteRule ^templates/?$ templates.php
+RewriteRule ^freeBase?$ development/free/base/index.php
+RewriteRule ^freeBuild?$ development/free/build/index.php
+RewriteRule ^core/?$ app/template/core/index.php
+</IfModule>
+# END rule

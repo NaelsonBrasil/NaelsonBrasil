@@ -1,0 +1,143 @@
+//BEGIN CONFIG APPLICATION #####
+//WARNING: Keep organization perfect. Case modified the default rules will cause error and stop work #####
+//RULES NOT BREAK LINE. RULES SEPARATOR ARE ";" AND "<spc>" NOT MODIFIED
+
+####################################### CONNECT_DATABASE
+#[ADDRESS IP HOST OR LOCALHOST]
+ip={localhost}
+user={root}
+password={admin123}
+dbn1={frozen}
+port={3306}
+//END
+
+####################################### META_SEO
+
+#[EN,PT-BR,ES]
+lang={pt-br}
+
+#[UNICODE]
+charset={utf-8}
+
+#TITLE
+title={My title}
+
+#TYPE WEB
+metaType={website}
+
+#SITE NAME
+metaSiteName={L2NONAME}
+
+#Key WORD FOR INDEX GOOGLE
+metaKeyWords={Interlude,lineage,low rate,hith rate,custom}
+
+#DESCRIPTION YOUR SERVER
+metaDescription={L2 Best server pvp zone}
+
+//IMAGE MINIATURE DISPLAY FACEBOOK GOOGLE
+seoImage={https://imgur.com/a/4DyDWUD}
+
+//END
+
+####################################### CONFIG_WEBSITE
+
+#WARNING DEFAULT 0
+access_level_players={0}
+
+#PAGS EXTERNAL
+top200={https://www.topgs200.com/}
+forum={#}
+
+#MESSAGE AFTER OFFLINE
+offilineMsg={Server return all day after pm 18:00}
+
+#FIXED MAIN DEFAULT
+staticPage={news}
+
+#RECOVER PASSWORD BY EMAIL ACTIVE 0 OR 1
+emailSendEnable={0}
+
+#FOR GET EMAILS OF USERS
+email={serverSuport@gmail.com}
+
+#COUNTDOWN DAYS,MONTHS,YEARS,HOURS ACTIVE 0 OR 1
+regressiveEnable={0}
+regressive={31;12;2020;12:00:00}
+
+#ACTIVE 0 OR 1
+likeFacebook={1}
+urlLikeFacebook={https://www.facebook.com/lineage2}
+
+#SLIDER
+sliderMessage={Lorem Ipsum is simply dummy text of the printing and typesetting industry.}
+
+#RULES
+rule0={01. Always treat all Administrators, Game Masters and members of management with respect. Any act of disrespect to the administration, regardless of the medium, result in punishment.}
+rule1={02. It is forbidden to impersonate (pretend to be) any member of the administration.}
+rule2={03. Advertising, comments or suggestions of any other Lineage server is prohibited in any game chat or other media connected to us.}
+rule3={04. It is forbidden to use programs that interact with the Lineage 2, exploits or take advantage of any problems found in the game, in the forum or website that will benefit you in relation to other players. If a player finds a bug (problem/fault) in the game, forum or site shall immediately inform the administration.}
+rule4={05. It is forbidden to use programs that interact with the Lineage 2, exploits or take advantage of any problems found in the game, in the forum or website that will benefit you in relation to other players. If a player finds a bug (problem/fault) in the game, forum or site shall immediately inform the administration.}
+
+#NEWS TITLE<spc>TEXT<spc>HORS
+news0={MyTitle<spc>Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.<spc>2019-01-13 10:33:30}
+news1={MyTitle<spc>Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.<spc>2019-01-13 10:33:30}
+news2={MyTitle<spc>Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.<spc>2019-01-13 10:33:30}
+news3={MyTitle<spc>Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.<spc>2019-01-13 10:33:30}
+//news4={MyTitle<spc>Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.<spc>2019-01-13 10:33:30}
+
+//INFORMATIONS
+
+#title 
+infoTitle={Lineage 2 Interlude}
+infoDescription={It’s only one real retail Lineage 2 Interlude project<spc>Our main project future is to offer real almost retail Lineage 2 gameplay, it’s subscription-based project, like and real lineage 2 was, without any other donatable items. Without any long-term event and helpable items (herbs, newbie buffs, shadow items etc.). }
+
+#rate
+infoTitleGameplay={RATES}
+InfoGameplay={Experience (EXP) - 1000x<spc>Skill Points (SP) - 1000x<spc>Adena - 1000x<spc>Drop Items - 1x<spc>Starting, Subclass level - 80<spc>Automatic potions use (HP/MP/CP)<spc>GM Shop free S-Grade items<spc>Titanium Armors and Extreme Weapons obtainable by killing Raid Bosses}
+
+#enchantes
+infoTitleEnchants={ENCHANTES}
+infoEnchants={Safe Enchant - 4<spc>Max Enchant - 16<spc>Scroll chance: 60% Max +10<spc>Blessed Scroll chance: 100% Max +12<spc>Extreme Scroll: 1-12 100% / +13 (80%) +14 (60%) +15 (40%) +16 (20%)<spc>Failed ? only loses scroll}
+
+#oly
+infoTitleOlympiad={OLYMPIAD}
+infoOlympiad={Retail olympiad game (classic)<spc>Max enchant for items +6<spc>Heroes changing every sunday 24:00<spc>Olympiad start time 18:00 end 24:00}
+
+#events
+infoTitleEvents={EVENTS}
+infoEvents={Party Farm<spc>Tournament: (3x3 / 5x5 / 9x9)<spc>DeathMatch<spc>Last Man Standing<spc>Team vs Team<spc>Capture the Flag<spc>Raid in the Middle}
+
+#clan&aliance
+infoTitleClan={CLAN &ALIANCE}
+infoClan={Max Clan Level: 8<spc>Max clan members: 40<spc>Royoal Guard and Knight Guard disabled<spc>Alliance Info: 1 clan (for crest)}
+
+#castle sieges
+infoTitleClan={CASTLE SIEGES}
+infoClan={There are 2 claste sieges (Giran and Rune)<spc>Castle siege duration 60 minutes<spc>Sieges are scheduled every 3 days 20:00-00:00<spc>Passive skill added for owners as a reward}
+
+#dditional infomations
+infoTitleAdditional={ADDICIONAL INFORMATIONS}
+infoAdditional={Buffs Slots - 30<spc>Dance/Song Slots - 18<spc>Chance Minimum Debuffs - 10%<spc>Chance Maximum Debuffs - 90%<spc>Cancellation Return Buff after 7 Secs<spc>Anti-Bot System (Gameguard)<spc>Geodata and Pathnodes - Yes<spc>Free and no quest class change.<spc>Free and no quest sub class.<spc>Max subclasses - 5.<spc>Offline mode Shop - Yes<spc>Auto Learn Skills - Yes<spc>Auto Loot - Yes<spc>Auto Loot Raid & Grand Boss - No<spc>Wedding System - Yes}
+
+//DOWNLOADS
+#title
+downloadTitle={DOWNLOAD}
+downloadDescription={What you want to download?}
+
+#client
+clientTitle={Client}
+clientLink={https://www.mediafire.com/;https://mega.nz/;https://www.4shared.com/}
+
+#pach
+pachLink1={https://www.mediafire.com/}
+pachLink2={https://mega.nz/}
+pachLink3={https://www.4shared.com/}
+
+//END
+
+####################################### CONFIG_SERVER
+
+#UNLOCK CHAR
+spawnUnlocked={83430;148243;-3405}
+
+//END

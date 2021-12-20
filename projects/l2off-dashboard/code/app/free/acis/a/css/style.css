@@ -1,0 +1,282 @@
+body {
+  background-color: #232018 !important;
+  /* background-color: #ffffff !important; */
+}
+* {
+  font-family: cinzel;
+}
+
+@font-face {
+  font-family: cinzel;
+  src: url(Cinzel-Regular.otf);
+}
+
+.main {
+  width: 100%;
+  max-width: 1920px;
+  min-width: 1000px;
+  height: 1600px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: url("images/bg1.jpg") no-repeat center top 0px,
+    url("images/bg2.jpg") no-repeat center top 441px,
+    url("images/bg3.jpg") no-repeat center bottom 2px;
+}
+
+.header {
+  width: 900px;
+  margin: 1px auto;
+}
+
+.header > .menu > li {
+  list-style: none;
+  float: left;
+  padding: 10px;
+  background: url("images/separator.jpg") no-repeat right;
+}
+
+.header > .menu > li > a {
+  font-size: 30px;
+  color: #aeafaa !important;
+  cursor: pointer;
+  text-decoration: none;
+}
+.header > .menu > li > a:hover {
+  color: #aeafaa93 !important;
+  background: url("images/underline.png") no-repeat bottom;
+}
+
+.header > .login > form {
+  width: 250px;
+  margin-top: 120px;
+}
+.header > .login > form > input {
+  width: 250px;
+  margin-top: 10px;
+}
+.header > .login > form > .title-login {
+  font-size: 30px;
+  color: white;
+  margin-top: 10px;
+}
+.status > p {
+  float: right;
+  margin-top: 50px;
+  color: white;
+}
+
+/* BEGIN SLIDER */
+
+.circle {
+  height: 20px !important;
+  width: 20px !important;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.84) !important;
+}
+
+ol.carousel-indicators {
+  z-index: 999;
+  bottom: 8% !important;
+  left: 60%;
+  width: 30%;
+}
+
+.target {
+  width: 8px;
+  height: 8px;
+  background-color: #234605;
+  margin: 6px auto;
+  border-radius: 50%;
+}
+
+.slider-lin2rpg-com {
+  width: 600px !important;
+  height: 260px !important;
+  float: right;
+  top: -100px;
+  left: 30px;
+}
+
+.info-slider {
+  width: 100%;
+  height: 30px;
+  background-color: #181717;
+  opacity: 0.5;
+  position: absolute;
+  z-index: 99;
+  bottom: 0;
+  overflow: hidden;
+  color: white;
+}
+
+.webname {
+  position: absolute;
+  right: 50%;
+  left: 50%;
+  top: 100px;
+  color: white;
+}
+
+/* END SLIDER */
+
+.others > .btn-left {
+  z-index: 1 !important;
+  position: absolute;
+  margin: 240px 0 0 0;
+  margin-left: 12px;
+  overflow: hidden !important;
+}
+
+.others > .btn-left > ul {
+  list-style: none;
+  display: inline;
+}
+
+.others > .btn-left > ul > li > a {
+  width: 220px;
+  margin-top: 3px;
+}
+
+#fanpag {
+  margin: 800px 0 0 -4px !important;
+}
+
+.content {
+  float: right;
+  width: 600px;
+  height: 1100px;
+  margin-right: -30px;
+  margin-top: -70px;
+  z-index: 999 !important;
+  /* background: rgb(17, 17, 17); */
+   background: rgba(17, 17, 17, 0.849); 
+  border-radius: 2%;
+}
+
+.regressive {
+  width: 100%;
+  margin-left: 25%;
+}
+
+.news {
+  margin-left: 10px;
+  padding: 30px;
+}
+
+.news > article > div > h3 {
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.news > article > div > p {
+  color: rgb(74, 175, 91) !important;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.news > article > div > span {
+  color: rgb(219, 179, 0) !important;
+  font-family: sans-serif;
+  float: right;
+  font-size: 12px;
+}
+
+.register {
+  width: 400px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 50px;
+}
+
+.register > h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(24, 23, 23);
+}
+
+.register > h1 > i {
+  color: rgb(4, 121, 0);
+}
+
+.download > .title {
+  background-color: rgb(223, 223, 223);
+  color: rgb(27, 27, 27);
+  height: 70px;
+  text-align: justify;
+}
+
+.download > .title > h3 {
+  line-height: 70px !important;
+  margin-left: 10px;
+}
+
+.download > .title > p {
+  margin-left: 10px;
+}
+
+.download > .client-title > h3 {
+  color: white;
+}
+
+.download > .patch-title > h3 {
+  color: white;
+}
+
+.download > .client-link > ul {
+  padding: 0 0 0;
+  list-style: none;
+}
+
+.download > .client-link > ul > li > a {
+  color: rgb(51, 134, 30);
+}
+
+.download > .patch-link > ul {
+  padding: 0 0 0;
+  list-style: none;
+}
+
+.download > .patch-link > ul > li > a {
+  color: rgb(51, 134, 30);
+}
+
+.info {
+  margin-left: 50px;
+}
+
+.info > article > div > .title {
+  color: rgb(227, 231, 15);
+  font-size: 16px;
+}
+
+.info > article > div > ul {
+  list-style: none;
+}
+
+.info > article > div > ul > li {
+  list-style: none;
+  margin-left: -40px !important;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+}
+
+.info > article > .primary-title {
+  color: white;
+  text-align: center;
+  margin-right: 50px;
+}
+
+.info > article > .primary-title > h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.info > article > .primary-title > p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.main > div > .login > form > input{
+font-size: 12px !important;
+font-family: Arial, Helvetica, sans-serif;
+}

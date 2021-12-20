@@ -1,0 +1,40 @@
+body {
+  background-color: #F3F3F3;
+}
+.container-fluid > div > div > div .title {
+  background-color: #0A8CEF;
+  height: 70px;
+  width: 100%;
+  display: flex;
+}
+
+.container-fluid > div > div > div .title > div {
+  line-height: 70px;
+
+}
+
+.container-fluid > div > div > div .title > div > h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: aliceblue;
+  line-height: 60px;
+}
+
+.container-fluid > div > div > div .title > .icon-simbol > i{
+  font-size: 30px !important;
+  margin-left: 5px;
+  color: rgb(235, 237, 238) !important;
+
+}
+
+.container-fluid > div > div > div > form > div > label{
+  font-size: 14px;
+}
+
+.container-fluid > div > div > div > form > div > input{
+  font-size: 12px;
+}
+
+.container-fluid > div > div > div > form > div > select {
+  font-size: 12px !important;
+}

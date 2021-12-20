@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^\w+$ index.php?page=$0 [L]
+RewriteCond %{THE_REQUEST} index\.php
+RewriteCond %{QUERY_STRING} ^page=(\w+)$
+RewriteRule ^index\.php$ /%1? [R=301,L]
+</IfModule>

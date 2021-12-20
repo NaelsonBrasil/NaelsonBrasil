@@ -1,0 +1,109 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.container-fluid > div > div > .top {
+  background-image: linear-gradient(90deg, #272a3d, #02a14b) !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  height: 250px;
+}
+
+.container-fluid > div > div > .top > .logo > img {
+  float: left;
+  width: 250px;
+  height: 200px;
+}
+
+.container-fluid > div > div > .top > .title > p {
+  line-height: 100px;
+}
+
+.container-fluid > div > div > .top > .title > h6 {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.container-fluid > div > div > .content > .text > .title-primary > p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.container-fluid
+  > div
+  > div
+  > .content
+  > .text
+  > .text-scd
+  > article
+  > .title
+  > h6 {
+  font-size: 24px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-fluid
+  > div
+  > div
+  > .content
+  > .text
+  > .text-scd
+  > article
+  > .content-text
+  > span {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+.container-fluid > div > div > .nav {
+  display: inline;
+
+}
+
+.container-fluid > div > div > .nav > .box-msg {
+  background-image: linear-gradient(90deg, #272a3d, #02a14b) !important;
+  height: 130px;
+  margin-top: 10px;
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+}
+
+.container-fluid > div > div > .nav > .box-msg > h3 {
+  line-height: 80px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-fluid > div > div > .nav > .action-connect {
+  text-align: center;
+}
+
+.container-fluid > div > div > .nav > .action-connect > a > button {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(-90deg, #23bbac, #02a14b) !important;
+}
+
+.container-fluid > div > div > .nav > .action-connect > a > button:hover {
+  background-image: linear-gradient(90deg, #23bbac, #23bbac) !important;
+}
+
+.container-fluid > div > div > .menu {
+  /* background-image: linear-gradient(-90deg, #272a3d, #02a14b) !important; */
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  height: 100%;
+}
+
+.container-fluid > div > .footer {
+  background: #272a3d;
+  height: 50px;
+  width: 100%;
+  margin-top: 30px;
+}

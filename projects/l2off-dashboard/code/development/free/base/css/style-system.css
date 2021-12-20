@@ -1,0 +1,255 @@
+@charset "UTF-8";
+
+.main {
+  display: flex;
+}
+
+@font-face {
+  font-family: "Iceland";
+  src: url(Iceland-Regular.ttf);
+}
+
+@font-face {
+  font-family: "ultra";
+  src: url(Ultrathins.ttf);
+}
+
+/*BEGIN ADMIN*/
+.ad-main {
+  margin: 0 0 0 !important;
+  /* padding: 0 0 0 !important;*/
+  position: absolute;
+  width: 75%;
+  background-color: rgb(29, 28, 28);
+  height: 100%;
+  top: 0;
+  transition: 0s;
+  border-right: 3px rgba(255, 255, 255, 0.876) solid;
+  left: 0;
+  transition: 1s;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  z-index: 99 !important;
+  /* left: -960px; */
+}
+
+.admin {
+  overflow: hidden;
+}
+
+.ad-main > div > .welcome-admin {
+  font-family: ultra !important;
+  font-size: 40px;
+  padding: 10px;
+  letter-spacing: 10px;
+}
+
+.admin  > h1 {
+  font-family: Arial, Helvetica, Verdana, sans-serif !important;
+}
+
+.admin  > h5{
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.admin  > form > div, select {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.admin > div > form > div, label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.admin > div > form, div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.icon-admin {
+  position: absolute !important;
+  bottom: -10px;
+  right: -25px;
+  cursor: pointer;
+}
+.icon-admin,
+.admin-icon-click {
+  font-size: 32px !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.menu-admin {
+  background-color: aliceblue;
+  height: 60px;
+}
+
+.menu-admin > nav > ul > li {
+  list-style: none;
+  text-align: center;
+  line-height: 60px;
+  float: left;
+  margin-left: 10px;
+  height: 1px;
+  border-bottom: solid 3px transparent;
+  transition: 0.1s;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.menu-admin > nav > ul > li > a {
+  color: rgb(20, 20, 20);
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
+
+.menu-admin > nav > ul > li:hover {
+  border-bottom: solid 3px #e79a05;
+  background-color: #ffc000;
+  height: 60px;
+}
+
+/*END ADMIN*/
+
+/*BEGIN OFFLINE */
+
+.offline {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0 0 0 !important;
+  padding: 0 0 0 !important;
+  text-align: center;
+  z-index: 999;
+}
+
+.offline > div > h1 {
+  color: white;
+}
+
+.offline > div > h1 > strong {
+  color: rgb(202, 13, 13);
+}
+
+.info-offline {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 25% !important;
+  bottom: 75% !important;
+}
+
+.info-expired {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 25% !important;
+  bottom: 75% !important;
+}
+
+/*END OFFLINE */
+
+/* BEGIN LIKE FACEBOOK*/
+.face-float {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(27, 30, 33, 0.72);
+  bottom: 0;
+  top: 0;
+  left: 0;
+  text-align: center;
+  display: none;
+  z-index: 99;
+}
+
+#fb-pag-float {
+  margin-top: 50px;
+}
+
+.like {
+  margin: 100px auto;
+  position: relative;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.like div {
+  line-height: 200px;
+}
+
+.close-like {
+  position: absolute;
+  right: 5px;
+}
+
+.close-like i {
+  cursor: pointer;
+  font-size: 32px;
+  color: #292929;
+}
+
+.close-like i:hover {
+  opacity: 0.5;
+}
+/* END LIKE FACEBOOK */
+
+/* BEGIN TIME COUNTDOWN */
+.countdown .title-countdown {
+  border-radius: 3px;
+  text-align: center;
+  width: 200px;
+  margin-left: 40px;
+  height: 20px;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: white;
+}
+
+.countdown {
+  width: 280px;
+  height: 140px;
+  overflow: hidden;
+}
+
+.countdown ul {
+  list-style: none;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+.countdown ul li {
+  font-size: 30px;
+  border-radius: 3px;
+  width: 50px;
+  line-height: 60px;
+  float: left;
+  background-color: rgba(27, 30, 33, 0.81);
+  margin-left: 1px;
+  color: white;
+  font-family: Iceland;
+  padding: 1px;
+  margin-left: 1px;
+  font-size: 24px;
+}
+
+.day {
+  position: relative;
+  font-size: 14px;
+  background-color: rgba(38, 156, 17, 0.6);
+  border-radius: 3px;
+  font-family: Iceland;
+}
+/* END TIME COUNTDOWN */
+
+/* BEGIN CHANGE PASSWORD */
+.pw-change {
+  margin: 100px auto;
+  width: 75% !important;
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+/* END CHANGE PASSWORD */
