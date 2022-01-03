@@ -58,7 +58,7 @@
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Web Site de afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
  ⚙️ [Extensão Chrome de ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` 🔓 open <br>
- ⚙️ [Gateway Split Payment - WooComerce](#) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` 🔒 private <br>
+ ⚙️ [Gateway Split of Payment - WooComerce](#) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` 🔒 private <br>
 
 ---
 ### 🔥 Stack<br>
