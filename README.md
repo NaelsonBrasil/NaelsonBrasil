@@ -4,7 +4,7 @@
 ##### Whatsapp: 65981180218
 ---
 ### 📚 De onde vim.<br>
-⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe, evitando cair em floods e trolls.<br>
+⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe.<br>
 
 #### Pefils e Referências,<br>
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
