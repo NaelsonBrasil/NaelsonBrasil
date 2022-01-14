@@ -20,17 +20,17 @@
  💬 Experiências nas seguintes tecnologias<br>
 
   ⚠️ Linguagens BackEnd:<br>
- ➕ PHP,<br>
- ➕ NODE,<br>
+ ➕ Php,<br>
+ ➕ Node,<br>
  ➕ C++,<br>
  ➕ C,<br>
- ➕ PHYTON.<br>
+ ➕ Phyton.<br>
 
  ⚠️ Linguagens Front End: JavaScript;<br>
  💬 Foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
- ➕ HTML<br>
- ➕ CSS<br>
- ➕ COMPILED SASS<br>
+ ➕ Html<br>
+ ➕ Css<br>
+ ➕ COMPILED Sass<br>
  ➕ Jquery<br>
  ➕ ReactJS<br>
  ➕ NextJS<br>
