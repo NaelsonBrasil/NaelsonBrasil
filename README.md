@@ -1,7 +1,7 @@
 ## 👋 Olâ, meu nome é Naelson 👉 🇧🇷 
 ### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador 🖥️ Veja abaixo um mix de coisas que atualmente faço e já fiz.
-##### Email: Naelson.g.saraiva@gmail.com
-##### Whatsapp: 65981180218
+### Email: Naelson.g.saraiva@gmail.com
+### Whatsapp: 65981180218
 ---
 ### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe.<br>
@@ -15,8 +15,6 @@
 ### Interesses
  ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
  😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizo o tempo como também o silencio da 🌱 natureza.<br>
-💡 Trabalho em cima de "boas" ideias conforme minha perspectiva como sugestão 👊 agregando inovação, gerando valor comercial, segurança e qualidade de vida aos envolvidos.<br>
-
 ---
  
  💬 Experiências nas seguintes tecnologias<br>
