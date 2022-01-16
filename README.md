@@ -7,7 +7,8 @@
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe.<br>
 
 Recuperação de algumas das minhas certificações. 
-![HTML5](./image/certificado_3747.jpg)
+
+<img src="./image/certificado_3747.jpg" alt="drawing" width="200"/>
 
 #### Pefils e Referências,<br>
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
