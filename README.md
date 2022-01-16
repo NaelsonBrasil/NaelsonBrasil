@@ -8,7 +8,7 @@
 ### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe.<br>
 
-Recuperação de algumas das minhas certificações. 
+### Certificações. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./image/certificate-logica.jpg" alt="drawing" width="400"/><br>
 
