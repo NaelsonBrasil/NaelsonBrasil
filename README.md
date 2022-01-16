@@ -56,7 +56,7 @@
 - [![Veiew - Perfil](./image/workana.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 ---
 #### MaxCheaters
-- 2 Projetos Completos Posts:156/Reputation:13
+- 2 Projetos Abertos Posts:156/Reputation:13
 - [![Veiew - Perfil](./image/maxcheaters.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 ---
 
