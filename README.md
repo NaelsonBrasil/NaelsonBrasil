@@ -59,7 +59,7 @@
 - [![Veiew - Perfil](./image/maxcheaters.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 ---
 
-- ⚠️ Referências de empresas atribuidas via curriculum.<br>
+- ⚠️ Referências de empresas atribuidas no curriculum.<br>
 
 ---
 
