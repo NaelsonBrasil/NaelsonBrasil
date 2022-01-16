@@ -46,8 +46,8 @@ Recuperação de algumas das minhas certificações.
 L2JBrasil inscrição Junho 6/2011
 Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
 Status: Super Membro 
-Posts: 1059
-Reputation: 251
+Postes: 1059
+Reputação: 251
 ```
 🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 
