@@ -40,7 +40,7 @@ Recuperação de algumas das minhas certificações.
 #### Pefils e Referências,<br>
 
 ### L2JBrasil
-<img src="./image/jbrazil.png" alt="drawing" width="100"/>
+<img src="./image/jbrazil.png" alt="drawing" width="70"/>
 
 ```
 L2JBrasil inscrição Junho 6/2011
