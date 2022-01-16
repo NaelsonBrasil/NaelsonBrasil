@@ -40,7 +40,7 @@
 &nbsp;&nbsp; View Bootstrap
 
 
----
+<hr/>
 ### Referências<br>
 
 #### L2JBrasil
