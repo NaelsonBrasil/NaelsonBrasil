@@ -54,8 +54,7 @@
 ---
 #### Workana
 - 8 Projetos Completos
-- 🔗 [Veiew - Perfil](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
-
+- [![Veiew - Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
 ---
 #### MaxCheaters
 - 2 Projetos Completos Posts:156/Reputation:13
