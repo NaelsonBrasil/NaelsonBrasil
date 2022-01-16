@@ -53,8 +53,8 @@
 
 ---
 
-#### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
-#### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
+#### 🔗 [Workana 8 Projetos Completos](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
+#### 🔗 [MaxCheaters VIP Member Posts:156/Reputation:13 ](https://maxcheaters.com/profile/176942-naelson/)<br>
 
 ---
 
