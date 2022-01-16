@@ -65,8 +65,8 @@
 
 
 ### Interesses
-#### ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
-#### 😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizo o tempo como também o silencio da 🌱 natureza.<br>
+⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
+😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizo o tempo como também o silencio da 🌱 natureza.<br>
 ---
  
  💬 Experiências nas seguintes tecnologias<br>
