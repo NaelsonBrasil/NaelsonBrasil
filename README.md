@@ -2,7 +2,7 @@
 ##### Whatsapp👉 (65) 981180218
 ##### Email👉 Naelson.g.saraiva@gmail.com
 
-✨ Trabalho como Desenvolvedor Web, eu crio e prgramas de computadores, coisas que funciona no computador 🖥️ Veja abaixo um mix de coisas fiz.
+✨ Trabalho como Desenvolvedor Web, eu crio e prgramas de computadores, coisas que funciona no computador 🖥️
 
 ---
 ### 📚 De onde vim.<br>
@@ -102,7 +102,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 PHP Unit Test TDD [Link](https://github.com/devnaelson/phpunit)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 Aprendendo há alguns anos Assembly Intelx64/x86 [Link](https://github.com/devnaelson/assembly)<br>
 
-### Lista de projetos de empresas e pessoais.
+### Veja algumas coisas fiz.
+
  ⚙️ [DashBoard Gerador de Sites com tempo de expiração](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server,Template credits in footer)``` 🔓 open code<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Web Site de afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
