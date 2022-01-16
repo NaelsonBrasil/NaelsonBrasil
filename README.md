@@ -42,8 +42,13 @@ Recuperação de algumas das minhas certificações.
 ### Perfil do LinkedIn
 [![Profile](./image/jbrazil.png)](https://www.l2jbrasil.com/profile/54325-naelson/)
 ```
-L2JBrasil inscrição 
+L2JBrasil inscrição
+
+Status: Super Membro 
+Posts: 1059
+Reputation: 251
 ```
+🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 #### 🔗 [L2JBrasil Super Membro POSTS 1059/251 Reputation](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
