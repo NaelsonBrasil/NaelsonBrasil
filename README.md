@@ -41,7 +41,7 @@
 
 ### Referências<br>
 
-#### Referência L2JBrasil
+#### L2JBrasil
 <img src="./image/jbrazil.png" alt="drawing" width="50"/>
 
 - L2JBrasil inscrição Junho 6/2011
