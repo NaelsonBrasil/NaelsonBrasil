@@ -48,7 +48,7 @@
 - Status: Super Membro 
 - Postes: 1059
 - Reputação: 251
- [![Veiew - Perfil](./image/jb.png)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+- [![Veiew - Perfil](./image/jb.png)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 ---
 #### Workana
 - 8 Projetos Completos
