@@ -42,31 +42,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
 &nbsp;&nbsp; View Bootstrap
 
-
------
-### Referências<br>
-#### L2JBrasil
-
-- L2JBrasil inscrição Junho 6/2011
-- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento de sites, banco de dados entre outras diversas coisas relacionadas a técnologias.
-- Status: Super Membro 
-- Postes: 1059
-- Reputação: 251
-- [![Veiew - Perfil](./image/jb.png)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
----
-#### Workana
-- 8 Projetos Completos
-- [![Veiew - Perfil](./image/workana.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
----
-#### MaxCheaters
-- 2 Projetos Abertos Posts:156/Reputation:13
-- [![Veiew - Perfil](./image/maxcheaters.jpg)](https://maxcheaters.com/profile/176942-naelson/)
----
-
-- ⚠️ Referências de empresas atribuidas no curriculum.<br>
-
----
-
 ### Experiências Seguintes tecnologias<br>
 
   ⚠️ Linguagens BackEnd:<br>
@@ -100,6 +75,30 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 Basico de Docker [Link](https://github.com/devnaelson/docker-devna)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 PHP Unit Test TDD [Link](https://github.com/devnaelson/phpunit)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11 Aprendendo há alguns anos Assembly Intelx64/x86 [Link](https://github.com/devnaelson/assembly)<br>
+
+-----
+### Referências<br>
+#### L2JBrasil
+
+- L2JBrasil inscrição Junho 6/2011
+- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento de sites, banco de dados entre outras diversas coisas relacionadas a técnologias.
+- Status: Super Membro 
+- Postes: 1059
+- Reputação: 251
+- [![Veiew - Perfil](./image/jb.png)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+---
+#### Workana
+- 8 Projetos Completos
+- [![Veiew - Perfil](./image/workana.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+---
+#### MaxCheaters
+- 2 Projetos Abertos Posts:156/Reputation:13
+- [![Veiew - Perfil](./image/maxcheaters.jpg)](https://maxcheaters.com/profile/176942-naelson/)
+---
+
+- ⚠️ Referências de empresas atribuidas no curriculum.<br>
+
+---
 
 ### Veja algumas coisas que fiz.
 
