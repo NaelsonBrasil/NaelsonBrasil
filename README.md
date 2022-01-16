@@ -2,7 +2,7 @@
 ##### Whatsapp👉 (65) 981180218
 ##### Email👉 Naelson.g.saraiva@gmail.com
 
-### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador 🖥️ Veja abaixo um mix de coisas que atualmente faço e já fiz.
+- ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador 🖥️ Veja abaixo um mix de coisas que atualmente faço e já fiz.
 
 ---
 ### 📚 De onde vim.<br>
