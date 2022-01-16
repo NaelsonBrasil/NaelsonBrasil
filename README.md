@@ -39,23 +39,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
 &nbsp;&nbsp; View Bootstrap
 
-#### Pefils e Referências,<br>
+#### Referências<br>
 
-### L2JBrasil
-<img src="./image/jbrazil.png" alt="drawing" width="70"/>
-
+### Referência L2JBrasil
+<img src="./image/jbrazil.png" alt="drawing" width="50"/>
 ```
 L2JBrasil inscrição Junho 6/2011
 Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
 Status: Super Membro 
 Postes: 1059
 Reputação: 251
-🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)
+🔗 https://www.l2jbrasil.com/profile/54325-naelson
 ```
-🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
-#### 🔗 [L2JBrasil Super Membro POSTS 1059/251 Reputation](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 #### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
 #### ⚠️ Referências de empresas atribuidas no curriculum.<br>
 ---
