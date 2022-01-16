@@ -52,10 +52,14 @@
 - 🔗 https://www.l2jbrasil.com/profile/54325-naelson
 
 ---
+#### L2JBrasil
+- 8 Projetos Completos
+- 🔗 [Veiew - Perfil](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
 
-#### 🔗 [Workana 8 Projetos Completos](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
-#### 🔗 [MaxCheaters VIP Member Posts:156/Reputation:13 ](https://maxcheaters.com/profile/176942-naelson/)<br>
-
+---
+#### MaxCheaters
+- 2 Projetos Completos Posts:156/Reputation:13
+- 🔗 [View - Perfil](https://maxcheaters.com/profile/176942-naelson/)
 ---
 
 - ⚠️ Referências de empresas atribuidas via curriculum.<br>
