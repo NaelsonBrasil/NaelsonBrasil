@@ -43,6 +43,7 @@
 
 #### Referência L2JBrasil
 <img src="./image/jbrazil.png" alt="drawing" width="50"/>
+
 - L2JBrasil inscrição Junho 6/2011
 - Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
 - Status: Super Membro 
