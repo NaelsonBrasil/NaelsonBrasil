@@ -44,14 +44,13 @@
 ### Referência L2JBrasil
 <img src="./image/jbrazil.png" alt="drawing" width="50"/>
 
-```
-L2JBrasil inscrição Junho 6/2011
-Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
-Status: Super Membro 
-Postes: 1059
-Reputação: 251
-🔗 https://www.l2jbrasil.com/profile/54325-naelson
-```
+- L2JBrasil inscrição Junho 6/2011
+- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
+- Status: Super Membro 
+- Postes: 1059
+- Reputação: 251
+- 🔗 https://www.l2jbrasil.com/profile/54325-naelson
+
 
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 #### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
