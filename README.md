@@ -39,12 +39,12 @@ Recuperação de algumas das minhas certificações.
 
 #### Pefils e Referências,<br>
 
-### Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
+### L2JBrasil
 <img src="./image/jbrazil.png" alt="drawing" width="100"/>
 
 ```
-L2JBrasil inscrição
-
+L2JBrasil inscrição Junho 6/2011
+Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
 Status: Super Membro 
 Posts: 1059
 Reputation: 251
