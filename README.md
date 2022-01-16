@@ -39,7 +39,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
 &nbsp;&nbsp; View Bootstrap
 
-#### Referências<br>
+### Referências<br>
 
 ### Referência L2JBrasil
 <img src="./image/jbrazil.png" alt="drawing" width="50"/>
@@ -51,10 +51,7 @@
 - Reputação: 251
 - 🔗 https://www.l2jbrasil.com/profile/54325-naelson
 
-
-#### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
-#### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
-#### ⚠️ Referências de empresas atribuidas no curriculum.<br>
+- ⚠️ Referências de empresas atribuidas via curriculum.<br>
 ---
 
 ### Interesses
