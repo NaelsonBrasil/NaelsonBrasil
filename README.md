@@ -50,6 +50,7 @@ Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenv
 Status: Super Membro 
 Postes: 1059
 Reputação: 251
+🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)
 ```
 🔗 [Profile link](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 
