@@ -34,10 +34,17 @@ Recuperação de algumas das minhas certificações.
 <img src="./image/certificado_6067.jpg" alt="drawing" width="100"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Php
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
 &nbsp;&nbsp; View Bootstrap
 
 #### Pefils e Referências,<br>
+
+### Perfil do LinkedIn
+[![Profile](./image/jbrazil.png)](https://www.l2jbrasil.com/profile/54325-naelson/)
+```
+L2JBrasil inscrição 
+```
+
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
 #### 🔗 [L2JBrasil Super Membro POSTS 1059/251 Reputation](https://www.l2jbrasil.com/profile/54325-naelson/)<br>
 #### 🔗 [MaxCheaters VIP Member POSTS 156/13 Reputation ](https://maxcheaters.com/profile/176942-naelson/)<br>
