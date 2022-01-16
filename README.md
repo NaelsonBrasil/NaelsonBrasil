@@ -20,7 +20,7 @@ Recuperação de algumas das minhas certificações.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./image/certificado_6066.jpg" alt="drawing" width="100"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./image/certificado_3747.jpg" alt="drawing" width="100"/>
+<img src="./image/certificate-html.jpg" alt="drawing" width="100"/>
 
 #### Pefils e Referências,<br>
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
