@@ -1,7 +1,6 @@
-## 👋 Olâ, meu nome é Naelson 👉 🇧🇷 
+## 👋 Olâ, meu nome é Naelson 👉 🇧🇷 Whatsapp 👉 65981180218 👉 Naelson.g.saraiva@gmail.com
 ### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funciona no computador 🖥️ Veja abaixo um mix de coisas que atualmente faço e já fiz.
-### Email: Naelson.g.saraiva@gmail.com
-### Whatsapp: 65981180218
+
 ---
 ### 📚 De onde vim.<br>
 ⚓ Plataforma de Freelancer e antigas comunidades aberta desde 2011 aprendendo, ensinando e consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros da equipe.<br>
