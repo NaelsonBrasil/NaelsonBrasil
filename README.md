@@ -39,8 +39,9 @@ Recuperação de algumas das minhas certificações.
 
 #### Pefils e Referências,<br>
 
-### Perfil do LinkedIn
-[![Profile](./image/jbrazil.png)](https://www.l2jbrasil.com/profile/54325-naelson/)
+### Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento site, banco de dados entre outras diversas coisas, relacionadas a técnologias.
+<img src="./image/jbrazil.png" alt="drawing" width="100"/>
+
 ```
 L2JBrasil inscrição
 
