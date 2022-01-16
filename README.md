@@ -23,15 +23,15 @@ Recuperação de algumas das minhas certificações.
 <img src="./image/certificate-html.jpg" alt="drawing" width="100"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clica pra ver C++ 
+View C++ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clica pra ver C++
+View C++
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clica pra ver C++
+View C++
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clica pra ver C++
+View C++
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clica pra ver C++
+View C++
 
 #### Pefils e Referências,<br>
 #### 🔗 [Workana 8 Completed projects](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)<br>
