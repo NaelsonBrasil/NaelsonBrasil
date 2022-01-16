@@ -60,7 +60,7 @@
 ---
 #### MaxCheaters
 - 2 Projetos Abertos Posts:156/Reputation:13
-- [![Veiew - Perfil](./image/maxcheaters.jpg)](https://www.workana.com/freelancer/3d5b284ed454af818e8aa91affd21945)
+- [![Veiew - Perfil](./image/maxcheaters.jpg)](https://maxcheaters.com/profile/176942-naelson/)
 ---
 
 - ⚠️ Referências de empresas atribuidas no curriculum.<br>
