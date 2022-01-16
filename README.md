@@ -8,7 +8,7 @@
 
 Recuperação de algumas das minhas certificações. 
 
-<img src="./image/certificado_3747.jpg" alt="drawing" width="100"/>
+<img src="./image/certificado_3747.jpg" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./image/certificado_3747.jpg" alt="drawing" width="100"/>
 
 #### Pefils e Referências,<br>
