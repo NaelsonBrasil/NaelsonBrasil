@@ -8,8 +8,9 @@
 ⚓ Plataformas de freelancers e antigas comunidades aberta, desde 2011 aprendendo e ensinando, respeitando outros membros e consequêntemente evoluindo como profissional em SoftSkills e HardSkills.<br>
 
 ### Interesses
-⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
-😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizo o tempo como também o silencio da 🌱 natureza.<br>
+📗 Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
+📘 Alcançar uma fluência em english.
+⚡ 😃 Gosto de 🎮 jogar Video Game, 🚴 bike, valorizo o tempo como também o silencio da 🌱 natureza.<br>
 
 ### Certificações 
 
