@@ -43,7 +43,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; View Facebk Hora Code
 &nbsp;&nbsp; View Bootstrap
 
-### Experiências Seguintes tecnologias<br>
+### Experiências nas seguintes tecnologias<br>
 
   ⚠️ Linguagens BackEnd:<br>
  ➕ Php,<br>
