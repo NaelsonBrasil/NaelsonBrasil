@@ -5,7 +5,7 @@
 ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funcionam no 🖥️ computador.
 ---
 ### 📚 De onde vim.<br>
-⚓ Plataformas de Freelancers e antigas comunidades aberta, desde 2011 aprendendo, ensinando, consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros.<br>
+⚓ Plataformas de freelancers e antigas comunidades aberta, desde 2011 aprendendo, ensinando, consequêntemente evoluindo como profissional em Hard e SoftSkills, respeitando os outros membros.<br>
 
 ### Interesses
 ⚡ Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria [Link](https://github.com/devnaelson/math)<br>
