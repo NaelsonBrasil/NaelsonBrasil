@@ -78,14 +78,6 @@
 
 -----
 ### Referências<br>
-#### L2JBrasil
-
-- L2JBrasil inscrição Junho 6/2011
-- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento de sites, banco de dados entre outras diversas coisas relacionadas a técnologias.
-- Status: Super Membro 
-- Postes: 1059
-- Reputação: 251
-- [![Veiew - Perfil](./image/jb.png)](https://www.l2jbrasil.com/profile/54325-naelson/)
 ---
 #### Workana
 - 8 Projetos Completos
@@ -95,6 +87,14 @@
 - 2 Projetos Abertos Posts:156/Reputation:13
 - [![Veiew - Perfil](./image/maxcheaters.jpg)](https://maxcheaters.com/profile/176942-naelson/)
 ---
+#### L2JBrasil
+
+- L2JBrasil inscrição Junho 6/2011
+- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento de sites, banco de dados entre outras diversas coisas relacionadas a técnologias.
+- Status: Super Membro 
+- Postes: 1059
+- Reputação: 251
+- [![Veiew - Perfil](./image/jb.png)](https://www.l2jbrasil.com/profile/54325-naelson/)
 
 - ⚠️ Referências de empresas atribuidas no curriculum.<br>
 
