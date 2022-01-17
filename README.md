@@ -90,7 +90,7 @@
 #### L2JBrasil
 
 - L2JBrasil inscrição Junho 6/2011
-- Umas das comunidades mais antigas que tem como foco estudo de emuladores, desenvolvimento de sites, banco de dados entre outras diversas coisas relacionadas a técnologias.
+- Umas das comunidades mais antigas que tem como foco estudos de emuladores, desenvolvimento de sites, banco de dados entre diversas outras coisas relacionadas a técnologias.
 - Status: Super Membro 
 - Postes: 1059
 - Reputação: 251
