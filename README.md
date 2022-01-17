@@ -102,19 +102,15 @@
 
 ### Veja algumas coisas que fiz.
 
- ⚙️ [Tela Forum Games](https://github.com/devnaelson/devnaelson/blob/main/image/layout-forum.jpg) ```(Psd,Photoshop)``` 🔓 open <br>
- ⚙️ [Tela RPG](https://github.com/devnaelson/devnaelson/blob/main/image/layout02.png) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
- ⚙️ [Tela RPG Advanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"} 
-
-[go](http://stackoverflow.com){:target="_blank"}.
-
  ⚙️ [DashBoard Gerador de Sites com tempo de expiração](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server,Template credits in footer)``` 🔓 open code<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Web Site de afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
  ⚙️ [Extensão Chrome de ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` 🔓 open <br>
  ⚙️ [Gateway Split of Payment - WooComerce](#) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` 🔒 private <br>
+
+ ⚙️ [Tela Forum Games](https://github.com/devnaelson/devnaelson/blob/main/image/layout-forum.jpg) ```(Psd,Photoshop)``` 🔓 open <br>
+ ⚙️ [Tela RPG](https://github.com/devnaelson/devnaelson/blob/main/image/layout02.png) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
+ ⚙️ [Tela RPG Advanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
 
 ---
 ### 🔥 Stack<br>
