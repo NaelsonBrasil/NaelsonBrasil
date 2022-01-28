@@ -124,7 +124,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLSrv](https://img.shields.io/badge/MySQLServer-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLSrv](https://img.shields.io/badge/MySQLServer-FEFEFE?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)
 ![Docker](https://img.shields.io/badge/Docker-002C66?style=for-the-badge&logo=mysql&logoColor=white)
 ![Console Application](https://img.shields.io/badge/C++-0B214A?style=for-the-badge&logo=c&logoColor=green)
 
