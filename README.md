@@ -50,7 +50,6 @@
  ➕ Node,<br>
  ➕ C++,<br>
  ➕ C,<br>
- ➕ Phyton.<br>
 
  ⚠️ Linguagens Front End: JavaScript;<br>
  💬 Foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
@@ -59,8 +58,6 @@
  ➕ COMPILED Sass<br>
  ➕ Jquery<br>
  ➕ ReactJS<br>
- ➕ NextJS<br>
- ➕ VueJS<br>
  ➕ Library: Bootstrap, Boost C++, MysqlConnectorC++, PHPUnit, Guzzle, PHP dotenv...<br>
  ➕ Frameworks: Codeigniter, Laravel, Non-Framework Avançado em WordPress. <br>
  ➕ Outras experiências:<br> 
@@ -124,10 +121,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/REACT-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 ### Perfil do LinkedIn
