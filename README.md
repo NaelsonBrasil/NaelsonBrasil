@@ -123,8 +123,9 @@
 ![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/REACT-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLSrv](https://img.shields.io/badge/MySQLServer-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-002C66?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 ### Perfil do LinkedIn
