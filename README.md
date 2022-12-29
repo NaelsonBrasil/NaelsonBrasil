@@ -115,17 +115,13 @@
  ⚙️ [Original Precatórios](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
  WordPress,Mysql,
  MS Dynamics,
- Assets => [
- 
- ])``` 🔓 open <br>
+ Assets => [])``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>****
  
  
 ⚙️ [GAO Tech](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
  WordPress,Mysql,
  MS Dynamics,
- Assets => [
- 
- ])``` 🔓 open <br>
+ Assets => []) ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
  
  
  ⚙️ [Two Wins](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
@@ -133,7 +129,7 @@
  Mysql,
  DialogFlow,
  Watson Assistente,
- Assets => [HTM,CSS,JAVASCRIPT,JQUERY])``` 🔓 open <br>
+ Assets => [HTM,CSS,JAVASCRIPT,JQUERY])``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
  
 ---
 ### 🔥 Stack<br>
