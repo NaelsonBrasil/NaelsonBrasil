@@ -112,12 +112,29 @@
  ⚙️ [Tela RPG](https://github.com/devnaelson/devnaelson/blob/main/image/layout02.png) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
  ⚙️ [Tela RPG Avanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
  
- ⚙️ [Tela RPG Avanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
+ ⚙️ [Original Precatórios](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
  WordPress,Mysql,
  MS Dynamics,
  Assets => [
  
  ])``` 🔓 open <br>
+ 
+ 
+⚙️ [GAO Tech](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
+ WordPress,Mysql,
+ MS Dynamics,
+ Assets => [
+ 
+ ])``` 🔓 open <br>
+ 
+ 
+ ⚙️ [Two Wins](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(
+ WordPress,
+ Mysql,
+ DialogFlow,
+ Watson Assistente,
+ Assets => [HTM,CSS,JAVASCRIPT,JQUERY])``` 🔓 open <br>
+ 
 ---
 ### 🔥 Stack<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
