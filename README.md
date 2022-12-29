@@ -115,15 +115,15 @@
  ### Prestação nas seguites empresas
  
  ⚙️ [Original Precatórios](#) 
- ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 
+ ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
  🔓 open, sigilo profissional sobre seus clientes! <br>
  
 ⚙️ [GAO Tech](#) 
-```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 
+```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
 🔓 open, sigilo profissional sobre seus clientes! <br>
  
  ⚙️ [Two Wins](#) 
- ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` 
+ ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` <br>
  🔓 open, sigilo profissional sobre seus clientes! <br>
  
 ---
