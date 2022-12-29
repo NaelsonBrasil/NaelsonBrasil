@@ -113,14 +113,15 @@
  ⚙️ [Tela RPG Avanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
  
  ### Prestação nas seguites empresas
+ 
  ⚙️ [Original Precatórios](#) 
- ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>****
+ ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, sigilo profissional sobre seus clientes! <br>
  
 ⚙️ [GAO Tech](#) 
-```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
+```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, sigilo profissional sobre seus clientes! <br>
  
  ⚙️ [Two Wins](#) 
- ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
+ ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` 🔓 open, sigilo profissional sobre seus clientes! <br>
  
 ---
 ### 🔥 Stack<br>
