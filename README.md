@@ -114,14 +114,13 @@
  
  ### Prestação nas seguites empresas
  ⚙️ [Original Precatórios](#) 
- 
  ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>****
  
- 
-⚙️ [GAO Tech](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) 
+⚙️ [GAO Tech](#) 
 ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
  
- ⚙️ [Two Wins](#) ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
+ ⚙️ [Two Wins](#) 
+ ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` 🔓 open, Respeitando sigilo profissional sobre seus clientes! <br>
  
 ---
 ### 🔥 Stack<br>
