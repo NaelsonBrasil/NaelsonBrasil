@@ -116,15 +116,15 @@
  
  ⚙️ [Original Precatórios](#)
  ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
- 🔓 open, sigilo profissional sobre seus clientes! <br>
+ 🔓 open, sigilo profissional sobre meus clientes! <br>
  
 ⚙️ [Gao Tech](#)
 ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
-🔓 open, sigilo profissional sobre seus clientes! <br>
+🔓 open, sigilo profissional sobre meus clientes! <br>
  
  ⚙️ [2Wins](#)
  ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` <br>
- 🔓 open, sigilo profissional sobre seus clientes! <br>
+ 🔓 open, sigilo profissional sobre meus clientes! <br>
  
 ---
 ### 🔥 Stack<br>
