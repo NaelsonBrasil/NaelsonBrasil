@@ -115,17 +115,20 @@
  ### Prestação nas seguites empresas
  
  ⚙️ [Original Precatórios](#)
- ```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
+ ```(Desenvolvimento de softwares) ``` <br>
  🔓 fechado, sigilo profissional sobre meus clientes! <br>
  
 ⚙️ [Gao Tech](#)
-```(WordPress,Mysql, MS Dynamics, Assets => []) ``` <br>
+```(Desenvolvimento de themas wordpress, blogs sistemas integrados) ``` <br>
 🔓 fechado, sigilo profissional sobre meus clientes! <br>
  
  ⚙️ [2Wins](#)
  ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` <br>
  🔓 fechado, sigilo profissional sobre meus clientes! <br>
- 
+
+  ⚙️ [Soul Virtual](#)
+ ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
+ 🔓 fechado, sigilo profissional sobre meus clientes! <br>
 ---
 ### 🔥 Stack<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
