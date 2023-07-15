@@ -129,6 +129,7 @@
   ⚙️ [Soul Virtual](#)
  ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
  🔓 fechado, sigilo profissional sobre meus clientes! <br>
+ 
 ---
 ### 🔥 Stack<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
