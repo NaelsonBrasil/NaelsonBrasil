@@ -102,6 +102,7 @@
 
 ### Alguns dos sistemas que fiz, particulares apenas, sistemas privados ficam todos para trás nas empresas.
 
+
  ⚙️ [Gerador de Sites](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Vendas Afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
