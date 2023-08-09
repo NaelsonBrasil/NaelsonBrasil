@@ -134,12 +134,13 @@
  Uma empresa de viagens, cliente da Soul Virtual onde foi liberado pelo CEO para mim usar como case.
  Nessa empreita, tive lidando com várias ferramentas, validações praticar, mudanças de estrategias feitas pelo CEO.
  O que nos tempos aqui é a imagem do Avatar, e o scrrenshot do flow ainda maduro no dialogflow.
- [Avatar Claire](https://i.imgur.com/WwwNxvS.png)
- 
+
+  <img src="https://i.imgur.com/WwwNxvS.png" alt="drawing" width="100"/>
+  
  O flow dela, foi feito em coloboração, mas a liderança responsável foi minha, ela ta integrado com dialogflow e certas técnicas
  com inteligencia arificial.
- [Flow](https://i.imgur.com/nal5aWq.png)
- 
+
+ <img src="https://i.imgur.com/nal5aWq.png" alt="drawing" width="100"/>
 ---
 ### 🔥 Stack<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
