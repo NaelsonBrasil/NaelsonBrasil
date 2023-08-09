@@ -100,7 +100,7 @@
 
 ---
 
-### Tenho sistemas feitos por mim aqui para aprensetar, e histórico de onde eu passei, porém os sistemas feitos onde trabalhei eu não disponibilizei.
+### Alguns dos sistemas que fiz, particulares apenas, sistemas privados ficam todos para trás nas empresas.
 
  ⚙️ [Gerador de Sites](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server)``` 🔓 open code<br>
  ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
