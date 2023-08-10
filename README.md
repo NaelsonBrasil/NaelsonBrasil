@@ -2,7 +2,7 @@
 ###### 📲 (65) 981180218
 ###### ✉️ Naelson.g.saraiva@gmail.com
 
-##### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funcionam no computador 🖥️.
+#### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funcionam no computador 🖥️.
 ---
 ### 📚 De onde vim.<br>
 ⚓ Plataformas de freelancers e antigas comunidades aberta, desde 2011 aprendendo e ensinando, respeitando outros membros e consequêntemente evoluindo como profissional em SoftSkills e HardSkills.<br>
