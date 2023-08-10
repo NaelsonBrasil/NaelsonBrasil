@@ -1,6 +1,6 @@
 # 👋 Olâ, meu nome é Naelson🇧🇷 
-####### 📲 (65) 981180218
-####### ✉️ Naelson.g.saraiva@gmail.com
+###### 📲 (65) 981180218
+###### ✉️ Naelson.g.saraiva@gmail.com
 
 ##### ✨ Trabalho como Desenvolvedor Web, eu crio e programo coisas que funcionam no computador 🖥️.
 ---
