@@ -127,19 +127,19 @@
  
  ⚙️ [Original Precatórios](#)
  ```(Desenvolvimento de softwares) ``` <br>
- 🔓 fechado, sigilo profissional sobre meus clientes! <br>
+codigos fontes  🔓  <br>
  
 ⚙️ [Gao Tech](#)
 ```(Desenvolvimento de themas wordpress, blogs sistemas integrados) ``` <br>
-🔓 fechado, sigilo profissional sobre meus clientes! <br>
+codigos fontes  🔓  <br>
  
  ⚙️ [2Wins](#)
  ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` <br>
- 🔓 fechado, sigilo profissional sobre meus clientes! <br>
+codigos fontes  🔓  <br>
 
   ⚙️ [Soul Virtual](#)
  ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
- 🔓 fechado, sigilo profissional sobre meus clientes! <br>
+codigos fontes  🔓  <br>
 
  QueensBerry
  Uma empresa de viagens, liberado pelo CEO para mim usar como caso de sucesso.
