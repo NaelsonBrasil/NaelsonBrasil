@@ -144,7 +144,7 @@
  QueensBerry
  Uma empresa de viagens, liberado pelo CEO para mim usar como caso de sucesso.
  Nessa empreita, tive lidando com várias ferramentas, validações praticar, mudanças de estrategias feitas pelo CEO.
- O que nos tempos aqui é a imagem do Avatar, e o scrrenshot do flow ainda maduro no dialogflow.
+ O que nos tempos aqui um screenshot do Avatar, sobre o flow ainda maduro no dialogflow logo a baixo!
 
   <img src="https://i.imgur.com/WwwNxvS.png" alt="drawing" width="500"/>
   
