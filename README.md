@@ -52,6 +52,7 @@
  ➕ C,<br>
 
  ⚠️ Linguagens Front End: JavaScript;<br>
+ 
  💬 Foco em Back End, mas tenho experiências em telas, Photoshop fatiar layouts e montar ou agregar backend.<br>
  ➕ Html<br>
  ➕ Css<br>
