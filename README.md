@@ -123,7 +123,7 @@
  
  <br>
  
- ### Prestação nas seguites empresas
+ ### Prestação nas seguites empresas.
  
  ⚙️ [Original Precatórios](#)
  ```(Desenvolvimento de softwares) ``` <br>
