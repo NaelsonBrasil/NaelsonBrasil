@@ -106,14 +106,22 @@
  ⚙️ [Plugin de pagamentos multiplos vendedores](https://github.com/devnaelson/getwaypagamento-split)  
  
  ⚙️ [Gerador de Sites](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server)``` 🔓 open code<br>
- ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)  ```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
+ 
+ ⚙️ [Cpanel L2OFF](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-cpanel/view.md)
+```(JavaScript,Html,Css,Php,Codeigniter,Paypal,Mysql Server)``` 🔓 open code<br>
+
  ⚙️ [Vendas Afiliados](https://github.com/devnaelson/devnaelson/blob/main/projects/card-affiliate/view.md)  ```(JavaScript,HTML,CSS)``` 🔓 open code<br>
+ 
  ⚙️ [Extensão ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` 🔓 open <br>
  ⚙️ [Gateway Split Pagamento](#) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` 🔒 private <br>
 
  ⚙️ [Tela Forum Games](https://github.com/devnaelson/devnaelson/blob/main/image/layout-forum.jpg) ```(Psd,Photoshop)``` 🔓 open <br>
+ 
  ⚙️ [Tela RPG](https://github.com/devnaelson/devnaelson/blob/main/image/layout02.png) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
- ⚙️ [Tela RPG Avanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
+ 
+ ⚙️ [Tela RPG Avanger](https://github.com/devnaelson/devnaelson/blob/main/image/avenger.jpg) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open 
+ 
+ <br>
  
  ### Prestação nas seguites empresas
  
