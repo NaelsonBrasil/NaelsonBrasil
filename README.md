@@ -117,8 +117,6 @@
  
  ⚙️ [Extensão ocultar contatos do Whatsapp](https://github.com/devnaelson/devnaelson/blob/main/projects/hide-whatsapp/view.md) ```(JavaScript,HTML,CSS)``` 🔓 open <br>
  
- ⚙️ [Gateway Split Pagamento](#) ```(Php,Jquery,Mysql,Html,Css,WordPress Plugins)``` 🔒 private <br>
-
  ⚙️ [Tela Forum Games](https://github.com/devnaelson/devnaelson/blob/main/image/layout-forum.jpg) ```(Psd,Photoshop)``` 🔓 open <br>
  
  ⚙️ [Tela RPG](https://github.com/devnaelson/devnaelson/blob/main/image/layout02.png) ```(Psd,Fatiar, Montar Css,Hml,Js)``` 🔓 open <br>
