@@ -105,7 +105,8 @@
 
 ### Alguns dos sistemas que fiz, particulares apenas, sistemas privados ficam todos para trás nas empresas.
 
-
+ ⚙️ [Sistema de ChatBot estruturado por mim](https://github.com/devnaelson/smart-seach)  
+ 
  ⚙️ [Plugin de pagamentos multiplos vendedores](https://github.com/devnaelson/getwaypagamento-split)  
  
  ⚙️ [Gerador de Sites](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server)``` 🔓 open code<br>
