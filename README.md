@@ -102,7 +102,7 @@
 
 ---
 
-### Alguns sistemas que eu fiz, em Php, Python, Node.
+### Alguns sistemas que eu fiz, em Php, Python, Node, Javascritp e assets.
 
  ⚙️ [Sistema de ChatBot estruturado por mim](https://github.com/devnaelson/smart-seach)  
  
