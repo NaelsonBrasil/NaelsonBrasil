@@ -1,4 +1,4 @@
-# 👋 Olâ, meu nome é Naelson🇧🇷 
+# 👋 Olâ, meu nome é Naelson🇧🇷 Programador há 11 anos.
 ###### 📲 (65) 981180218
 ###### ✉️ Naelson.g.saraiva@gmail.com
 
@@ -10,7 +10,6 @@
 ### Interesses
 📗 Atualmente estou explorando o campo Deep Math, como algebra 1,2, geometria, projeção de espaços 3D Projection<br>
 📘 Alcançar uma fluência em english.<br>
-⚡ Valorizo o tempo como também o silencio da 🌱 natureza.<br>
 
 ### Certificações 
 
