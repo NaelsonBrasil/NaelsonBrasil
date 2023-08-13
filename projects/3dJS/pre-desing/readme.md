@@ -1,5 +1,5 @@
 ### O objetivo dessa ferramenta, foi criar algo no sistema cartesiano, no caso canvas é um sistema cartessiano.
-- O que entendi, usar javascript para sistemas complexo é um pouco lendo.
+- O que entendi, usar javascript para sistemas complexo é um pouco lendo, na tentativa de mapear as matrizes.
 
 <img src="https://raw.githubusercontent.com/devnaelson/portfolio/main/projects/3dJS/ferramenta.png" alt="drawing" width="100"/>
 
