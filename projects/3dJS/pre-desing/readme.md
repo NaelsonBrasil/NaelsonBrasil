@@ -1,4 +1,7 @@
 
+
+<img src="./image/certificate-c++.jpg" alt="drawing" width="100"/>
+
 ```
 // var wPagX = window.innerWidth
 //     || document.documentElement.clientWidth
