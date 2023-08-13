@@ -102,7 +102,7 @@
 
 ---
 
-### Alguns dos sistemas que fiz, particulares apenas, sistemas privados ficam todos para trás nas empresas.
+### Alguns sistemas que eu fiz, em Php, Python, Node.
 
  ⚙️ [Sistema de ChatBot estruturado por mim](https://github.com/devnaelson/smart-seach)  
  
