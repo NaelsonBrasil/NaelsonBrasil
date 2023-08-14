@@ -147,7 +147,7 @@ codigos fontes  🔓  <br>
  ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
 codigos fontes  🔓  <br>
 
-QueensBerry: uma empresa de viagens aprovada pelo CEO para ser usada como caso de sucesso. Nesta empreitada, estive lidando com várias ferramentas, praticando validações e implementando mudanças de estratégia propostas pelo CEO. A seguir, apresento um screenshot do Avatar, que ilustra o fluxo ainda em desenvolvimento no Dialogflow
+QueensBerry: uma empresa de viagens aprovada pelo CEO para mim usar como caso de sucesso. Nesta empreitada, estive lidando com várias ferramentas, praticando validações e implementando mudanças de estratégia propostas pelo CEO. A seguir, apresento um screenshot do Avatar, que ilustra o fluxo ainda em desenvolvimento no Dialogflow
 
   <img src="https://i.imgur.com/WwwNxvS.png" alt="drawing" width="500"/>
   
