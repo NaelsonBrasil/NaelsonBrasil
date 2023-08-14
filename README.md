@@ -1,4 +1,4 @@
-## 👋 Olâ, meu nome é Naelson🇧🇷 Programador há 11 anos.
+## 👋 Olâ, meu nome é Naelson🇧🇷 Programador há 11 anos, iniciado na L2JBrasil 2011. https://www.l2jbrasil.com/profile/54325-naelson/
 ###### 📲 (65) 981180218
 ###### ✉️ Naelson.g.saraiva@gmail.com
 
