@@ -104,6 +104,8 @@
 
 ### Alguns sistemas que eu fiz, em Php, Python, Node, Javascritp e assets.
 
+ ⚙️ [Snippet Multilang WordPress](https://github.com/devnaelson/portfolio/tree/main/projects/multiples-lang)  
+ 
  ⚙️ [Sistema de ChatBot estruturado por mim](https://github.com/devnaelson/smart-seach)  
  
  ⚙️ [Plugin de pagamentos multiplos vendedores](https://github.com/devnaelson/getwaypagamento-split)  
