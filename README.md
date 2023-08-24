@@ -102,7 +102,7 @@
 
 ---
 
-### Alguns sistemas que eu fiz, em Php, Python, Node, Javascritp e assets.
+### Sistemas que forám feitos por mim.
 
  ⚙️ [Snippet Multilang WordPress](https://github.com/devnaelson/portfolio/tree/main/projects/multiples-lang)  
  
