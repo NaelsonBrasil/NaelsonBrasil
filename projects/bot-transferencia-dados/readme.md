@@ -1,1 +1,1 @@
- <img src="[https://i.imgur.com/nal5aWq.png](https://raw.githubusercontent.com/devnaelson/portfolio/main/image/Bot2.png)https://raw.githubusercontent.com/devnaelson/portfolio/main/image/Bot2.png" alt="drawing" width="500"/>
+ <img src="https://raw.githubusercontent.com/devnaelson/portfolio/main/image/Bot2.png" alt="drawing" width="500"/>
