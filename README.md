@@ -130,22 +130,23 @@
  <br>
  
  ### Prestação nas seguites empresas.
- 
- ⚙️ [Original Precatórios](#)
- ```(Desenvolvimento de softwares) ``` <br>
+
+   ⚙️ [Soul Virtual](#)
+ ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
 codigos fontes  🔓  <br>
  
 ⚙️ [Gao Tech](#)
 ```(Desenvolvimento de themas wordpress, blogs sistemas integrados) ``` <br>
 codigos fontes  🔓  <br>
- 
+
+  ⚙️ [Original Precatórios](#)
+ ```(Desenvolvimento de softwares) ``` <br>
+codigos fontes  🔓  <br>
+
  ⚙️ [2Wins](#)
  ```(WordPress, Mysql, DialogFlow, Watson Assistente, Assets => [HTM,CSS,JAVASCRIPT,JQUERY])  ``` <br>
 codigos fontes  🔓  <br>
 
-  ⚙️ [Soul Virtual](#)
- ```(Desenvolvimento de Avatares, Integrações com inteligencia artificial NLP, LLM entre outras.)  ``` <br>
-codigos fontes  🔓  <br>
 
 QueensBerry: uma empresa de viagens aprovada pelo CTO para mim usar como caso de sucesso. Nesta empreitada, estive lidando com várias ferramentas, praticando validações e implementando mudanças de estratégia propostas pelo CTO. A seguir, apresento um screenshot do Avatar, que ilustra o fluxo ainda em desenvolvimento no Dialogflow
 
