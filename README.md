@@ -102,7 +102,8 @@
 
 ---
 
-### Sistemas que forám feitos por mim, muitos não poderei compartilha por causa da regra de negocios da empresa.
+###### Sistemas que forám feitos por mim, muitos não poderei compartilha por causa da regra de negocios da empresa, muitos desses projetinhos, forám validações para assim
+###### construir em cima de clean code e técnologias de ponta.
 
  ⚙️ [Migração de Dados: Laravel para WordPress e Dynamics](https://github.com/devnaelson/portfolio/tree/main/projects/transferenciadata) codigo fechado🔓
  
