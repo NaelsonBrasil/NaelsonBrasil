@@ -104,15 +104,15 @@
 
 ### Sistemas que forám feitos por mim.
 
- ⚙️ [Sistema de Higienização de Dados para WordPress](https://github.com/devnaelson/portfolio/blob/main/projects/hengenizacao-dados/readme.md)
+ ⚙️ [Sistema de Higienização de Dados para WordPress](https://github.com/devnaelson/portfolio/blob/main/projects/hengenizacao-dados/readme.md) codigo fechado🔓
 
- ⚙️ [Bot de Monitoramento de Leads](https://github.com/devnaelson/portfolio/tree/main/projects/bot-transferencia-dados)
+ ⚙️ [Bot de Monitoramento de Leads](https://github.com/devnaelson/portfolio/tree/main/projects/bot-transferencia-dados) codigo fechado🔓
  
  ⚙️ [Snippet Multilang WordPress](https://github.com/devnaelson/portfolio/tree/main/projects/multiples-lang)  
  
  ⚙️ [Sistema de ChatBot estruturado por mim](https://github.com/devnaelson/smart-seach)  
  
- ⚙️ [Plugin de pagamentos multiplos vendedores](https://github.com/devnaelson/getwaypagamento-split)  
+ ⚙️ [Plugin de pagamentos multiplos vendedores](https://github.com/devnaelson/getwaypagamento-split)  codigo fechado🔓
  
  ⚙️ [Gerador de Sites](https://github.com/devnaelson/devnaelson/blob/main/projects/l2off-dashboard/view.md)  ```(JavaScript,Html,Css,Php,Mysql Server)``` 🔓 open code<br>
  
