@@ -103,6 +103,7 @@
 ---
 
 ###### Sistemas que forám feitos por mim, muitos não poderei compartilha por causa da regra de negocios da empresa, muitos desses projetinhos, forám validações para assim construir em cima de clean code e técnologias de ponta transformando em um produto.
+ [go](http://stackoverflow.com){:target="_blank"}
  
  ⚙️ [Calculadora](https://github.com/devnaelson/portfolio/blob/main/projects/calculadora/readme.md) codigo fechado🔓
  
