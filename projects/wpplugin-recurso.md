@@ -1,5 +1,5 @@
 
-###### Plugin de habilitar recurso para concurso. Projeto fechado Privado creditos da contratante da prestação.
+#### Plugin de habilitar recurso para concurso. Projeto fechado Privado creditos da contratante da prestação.
 
 - 1. Esse plugin foi feito para agendar data de ativação do recurso. 
 - 2. Possivél criar campos, como select um determinado itém e habilita o input por exemplo. 
