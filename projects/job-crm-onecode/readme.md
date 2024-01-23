@@ -1,6 +1,6 @@
 
 ##### Desafios: Enviar os contatos aceitos da plataforma onecode para o CRM RD Station
-
+- Sistemas envolvidos, CRM RD Stations, Hospedagem hostinger e Plataforma de whatsapp multiplos atendentes onecode. 
 - Foi desenvolvido um script Php que contém integrações e logicas e um outro script de interface para cadastrar as chaves de cada agente. 
 
 
