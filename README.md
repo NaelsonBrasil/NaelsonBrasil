@@ -104,7 +104,7 @@
 
 ###### Sistemas que forám feitos por mim, muitos não poderei compartilha por causa da regra de negocios da empresa, muitos desses projetinhos, forám validações para assim construir em cima de clean code e técnologias de ponta transformando em um produto.
 
-  ⚙️ [Scirpt transferencias de Leads whatsappbot para CRM](https://github.com/devnaelson/portfolio/tree/main/projects/job-crm-onecode) codigo fechado🔓
+  ⚙️ [Scirpt transferencia de lead whatsappbot para CRM](https://github.com/devnaelson/portfolio/tree/main/projects/job-crm-onecode) codigo fechado🔓
     
   ⚙️ [Plugin Recurso](https://github.com/devnaelson/portfolio/blob/main/projects/wpplugin-recurso.md) codigo fechado🔓
   
