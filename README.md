@@ -164,7 +164,7 @@ QueensBerry: uma empresa de viagens aprovada pelo CTO para mim usar como caso de
 
   <img src="https://i.imgur.com/WwwNxvS.png" alt="drawing" width="500"/>
   
-O fluxo foi criado em colaboração, mas a liderança principal foi minha. Ele está integrado com o Dialogflow e utiliza certas técnicas de inteligência artificial.
+O fluxo foi criado em colaboração, mas a liderança principal foi minha. Está integrado com o Dialogflow e utiliza certas técnicas de inteligência artificial.
 
  <img src="https://i.imgur.com/nal5aWq.png" alt="drawing" width="500"/>
  
